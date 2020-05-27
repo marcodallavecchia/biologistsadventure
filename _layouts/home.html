@@ -1,34 +1,19 @@
 ---
-layout: splash
-header:
-  overlay_color: "#5e616c"
-  overlay_image: assets/images/logo_v1.png
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
-excerpt: "A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios."
-feature_row:
-  - image_path: assets/images/logo_v1.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/about/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: assets/images/logo_v1.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/about/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: assets/images/logo_v1.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/about/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"  
+layout: archive
 ---
 
-{% include feature_row %}
+{{ content }}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% for post in posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
