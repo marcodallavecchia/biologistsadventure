@@ -4,6 +4,7 @@ excerpt: "7th post of my jaw drop collection"
 category: ENG
 header:
   image: https://upload.wikimedia.org/wikipedia/commons/c/cc/Adult_Caenorhabditis_elegans.jpg
+  caption: "Image source: [**Wormatlas, Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/c/cc/Adult_Caenorhabditis_elegans.jpg)"
 ---
 
 Scientific research is pushing every single day towards a better and deeper knowledge. Either for curiosity, advancing the foreground of what humans know, or for finding a cure for cancer, every day many scientific publications appear on the most exotic journals around the world.
@@ -20,9 +21,9 @@ For example, when you think you know yourself, what do you actually think you kn
 
 Ok, but what does it mean? Well, you know that we all originate from a single cell that in our case gets originated from an act of fecundation right? For this worm, everything is the same with the difference that it can reproduce asexually as well. So to get all of our cells from that single original cell, you might imagine there is a lot of work to be done.
 
-<figure style="width: 200px" class="align-left">
+<figure style="width: 300px" class="align-left">
         <img src="https://wormatlas.org/images/embryoniclineage.jpg" alt="">
-        <figcaption>In this image you can see the development tree of each individual cell present in our worm. (Source: wormatlas.org) </figcaption>
+        <figcaption>Source: wormatlas.org</figcaption>
 </figure> 
 
 It turns out that C. elegans has up to 1031 cells in adult males (but is normally 959 in adult hermaphrodites). I am not saying random numbers, we mean that adults have ALWAYS that number of cells in their body if they are not affected by some genetic condition or illness. We don’t only know how many cells they have but what exactly every single one of those cells does and is in the body. If that doesn’t sound amazing and utterly outstanding at first check the image of the left!
