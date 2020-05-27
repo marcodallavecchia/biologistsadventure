@@ -2,9 +2,9 @@
 main:
   - title: "Explore Content"
     url: /post-archive/
-  - title: "Jaw Drop Collection"
-    url: /jaw-drop/
-  - title: "Muting Questions Collection"
-    url: /muting-questions/
+  - title: "Collections"
+    url: /collection-archive/
   - title: "Podcast"
     url: /podcast/
+  - title: "External"
+    url: /external/

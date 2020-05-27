@@ -4,10 +4,10 @@ excerpt: "Broadcasting surprising experiences, deep thoughts and hidden learning
 permalink: /podcast/
 layout: single
 ---
-<p>
-    <figure style="width: 150" class="align-left">
+<figure style="width: 200px" class="align-left">
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/podcast_thumbnail.png" alt="">
-    </figure> 
+</figure> 
+<p>
     Check out <a href="https://anchor.fm/welivethereforewelearn">our podcast</a>, where me and <a href="https://vfonsecad.github.io/dynamistics/">Valeria</a> talk about our surprising experiences, deep thoughts and hidden learnings!
 </p>
 <br>                                                                                                                        
