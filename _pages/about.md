@@ -7,7 +7,7 @@ toc: true
 ---
 <figure style="width: 500" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/marco.jpg" alt="" />
-  <figcaption>Hello! This is me in Bogotà, Colombia!</figcaption>
+  <figcaption>Hello! This is me!</figcaption>
 </figure>
 
 **(ENGLISH DESCRIPTION BELOW)**
