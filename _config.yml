@@ -286,3 +286,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _jaw_drop
+  - scope:
+      path: ""
+      type: jaw_drop
+    values:
+      layout: single
+      author_profile: false
+      share: true

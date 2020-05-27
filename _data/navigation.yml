@@ -2,9 +2,9 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Pages Archive"
+  - title: "Explore Content"
     url: /page-archive/
-  - title: "Collections Archive"
-    url: /collection-archive/
+  - title: "Jaw Drop"
+    url: /jaw-drop/
   - title: "Sitemap"
     url: /sitemap/
