@@ -4,9 +4,9 @@ excerpt: "Who I am and what I do!"
 permalink: /about/
 layout: single
 ---
-<figure style="width: 1200px" class="align-center">
+<figure style="width: 1000px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/marco.jpg" alt="" />
-  <figcaption>Hello! This is me in Bogotà, Colombia!.</figcaption>
+  <figcaption>Hello! This is me in Bogotà, Colombia!</figcaption>
 </figure>
 
 #### (ENGLISH DESCRIPTION BELOW)
