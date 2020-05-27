@@ -8,7 +8,7 @@ layout: single
     <figure style="width: 150" class="align-left">
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/podcast_thumbnail.png" alt="">
     </figure> 
-    Check out [our podcast](https://anchor.fm/welivethereforewelearn), where me and <a href="https://vfonsecad.github.io/dynamistics/">Valeria</a> talk about our surprising experiences, deep thoughts and hidden learnings!
+    Check out <a href="https://anchor.fm/welivethereforewelearn">our podcast</a>, where me and <a href="https://vfonsecad.github.io/dynamistics/">Valeria</a> talk about our surprising experiences, deep thoughts and hidden learnings!
 </p>
 <br>                                                                                                                        
 <h3>Episodes!</h3>
