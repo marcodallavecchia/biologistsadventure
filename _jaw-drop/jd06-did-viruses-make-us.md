@@ -7,7 +7,6 @@ header:
     overlay_filter: "0.5"
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ebola_Virus_-_Electron_Micrograph.tiff/lossy-page1-1024px-Ebola_Virus_-_Electron_Micrograph.tiff.jpg
     caption: "Image source: [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:Ebola_Virus_-_Electron_Micrograph.tiff)"
-    excerpt: "Jaw Drop #6 – Did Viruses make us?"
 ---
 I really want to talk about this Jaw Drop since I think people really don’t know about it. I feel it was really hard for me to get exposed to this idea, so I really want to share it with you.
 
