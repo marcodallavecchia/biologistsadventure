@@ -298,7 +298,7 @@ defaults:
       path: ""
       type: jaw-drop
     values:
-      layout: single
+      layout: splash
       author_profile: false
       share: true
   # _muting-questions
