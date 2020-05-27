@@ -3,6 +3,7 @@ title: "We live therefore we learn - Podcast"
 excerpt: "Broadcasting surprising experiences, deep thoughts and hidden learnings"
 permalink: /podcast/
 layout: single
+toc: true
 ---
 <figure style="width: 200px" class="align-left">
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/podcast_thumbnail.png" alt="">
