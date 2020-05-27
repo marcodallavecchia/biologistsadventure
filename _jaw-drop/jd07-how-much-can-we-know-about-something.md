@@ -19,3 +19,14 @@ For example, when you think you know yourself, what do you actually think you kn
 Ok, but what does it mean? Well, you know that we all originate from a single cell that in our case gets originated from an act of fecundation right? For this worm, everything is the same with the difference that it can reproduce asexually as well. So to get all of our cells from that single original cell, you might imagine there is a lot of work to be done.
 
 It turns out that C. elegans has up to 1031 cells in adult males (but is normally 959 in adult hermaphrodites). I am not saying random numbers, we mean that adults have ALWAYS that number of cells in their body if they are not affected by some genetic condition or illness. We don’t only know how many cells they have but what exactly every single one of those cells does and is in the body. If that doesn’t sound amazing and utterly outstanding at first there you go:
+<figure style="width: 200px" class="align-center rotate90">
+        <img src="https://wormatlas.org/images/embryoniclineage.jpg" alt="">
+        <figcaption>In this image you can see the development tree of each individual cell present in our worm. (Source: wormatlas.org) </figcaption>
+</figure> 
+What you see in this graph is every cell division that occurs from a single cell, the embryo, and the adult organism. From top to bottom you can see how every branching in the flowchart doubles the quantities of cells. Every cluster of cells represents a different functional department of the tissues formed by these cells.
+
+This is crazy impressive. From the starting embryo, we can track down every single cell in that organism!! Okay, it doesn’t have that many cells but still, this is mindblowing!
+
+You haven’t got enough? <a href="https://neurodata.io/project/connectomes/">In this website</a>, you can find the whole connectome mapped in this organism. What does that mean? In simple words, we know every single neuronal connection in the whole nervous system in this worm! In practice, we know which cell (neuron) connects to every other cell in the whole body!!
+
+This is really impressive, and if you thought you knew something about an organism, well think twice, because you will never know as much as I just told you. While you think about this immensity, let me tell you another story…
