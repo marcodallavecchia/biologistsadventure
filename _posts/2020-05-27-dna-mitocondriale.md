@@ -1,9 +1,11 @@
 ---
 title: "Cos'è il mitocondrio e cosa se ne fa di un DNA?"
 categories: ITA
-header:
-    image: https://upload.wikimedia.org/wikipedia/commons/e/e4/Mitochondria%2C_mammalian_lung_-_TEM_%282%29.jpg
 ---
+<figure style="width: 200px" class="align-center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Mitochondria%2C_mammalian_lung_-_TEM_%282%29.jpg" alt="">
+</figure> 
+
 Benvenuti! Prima, dopo o durante la lettura di questo post, abbiate cura di guardare il video associato di LDS!!
 
 Vi siete mai chiesti dove troviamo l’energia che ci serve? O meglio, come ricaviamo energia dal cibo che mangiamo e digeriamo?
