@@ -265,7 +265,11 @@ compress_html:
   ignore:
     envs: development
 
-
+# Collections
+collections:
+  jaw_drop:
+    output: true
+    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _posts
