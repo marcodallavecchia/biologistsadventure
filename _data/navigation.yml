@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Explore Content"
     url: /page-archive/
   - title: "Jaw Drop Collection"
     url: /jaw-drop/
+  - title: "Muting Questions Collection"
+    url: /muting-questions/
   - title: "Sitemap"
     url: /sitemap/

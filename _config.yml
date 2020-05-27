@@ -267,7 +267,10 @@ compress_html:
 
 # Collections
 collections:
-  jaw_drop:
+  jaw-drop:
+    output: true
+    permalink: /:collection/:path/
+  muting-questions:
     output: true
     permalink: /:collection/:path/
 # Defaults
