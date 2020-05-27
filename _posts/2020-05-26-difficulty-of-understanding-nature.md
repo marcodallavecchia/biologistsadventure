@@ -1,6 +1,6 @@
 ---
-title: The difficulty of understanding nature
-categories: General
+title: "The difficulty of understanding nature"
+categories: ENG
 ---
 A precious thing that being a biologist gives you is the ability to see the world in a different way. As you can imagine this includes many different aspects, most of them very subjective. One of my favorite biologist-peculiar special views is how we see our place in the universe. By our place I mean how I see humans amongst all species.
 

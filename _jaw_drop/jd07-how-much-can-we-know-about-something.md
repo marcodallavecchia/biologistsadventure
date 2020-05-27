@@ -1,5 +1,7 @@
 ---
 title: "Jaw Drop #7 – How much can we know about something? The C. elegans story."
+excerpt: "7th post of my jaw drop collection"
+category: ENG
 ---
 
 Scientific research is pushing every single day towards a better and deeper knowledge. Either for curiosity, advancing the foreground of what humans know, or for finding a cure for cancer, every day many scientific publications appear on the most exotic journals around the world.

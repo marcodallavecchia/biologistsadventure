@@ -1,6 +1,7 @@
 ---
-title: "Jaw Drop #6 – Did Viruses make us"
+title: "Jaw Drop #6 – Did Viruses make us?"
 excerpt: "6th post of my jaw drop collection"
+category: ENG
 header:
   image: /assets/images/logo_v1.png
 ---
