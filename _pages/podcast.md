@@ -4,8 +4,9 @@ excerpt: "Broadcasting surprising experiences, deep thoughts and hidden learning
 permalink: /podcast/
 layout: single
 ---
-<a href="https://anchor.fm/welivethereforewelearn"><img src="assets/images/podcast_thumbnail.png" alt="we live therefore we learn podcast" style="margin:0px 20px;float:left;width:120px"></a>
-Check out <b>We live, therefore we learn podcast</b>, where me and <a href="https://vfonsecad.github.io/dynamistics/">Valeria</a> talk about our surprising experiences, deep thoughts and hidden learnings!
+<p>
+    <a href="https://anchor.fm/welivethereforewelearn"><img src="/assets/images/podcast_thumbnail.png" alt="we live therefore we learn podcast" style="margin:0px 20px;float:left;width:120px"></a>
+    Check out <b>We live, therefore we learn podcast</b>, where me and <a href="https://vfonsecad.github.io/dynamistics/">Valeria</a> talk about our surprising experiences, deep thoughts and hidden learnings!
 </p>
 <br>                                                                                                                        
 <h3>Episodes!</h3>
