@@ -2,7 +2,7 @@
 title: "Cos'è il mitocondrio e cosa se ne fa di un DNA?"
 categories: ITA
 ---
-<figure style="width: 200px" class="align-center">
+<figure style="width: 500px" class="align-center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Mitochondria%2C_mammalian_lung_-_TEM_%282%29.jpg" alt="">
 </figure> 
 
