@@ -4,7 +4,6 @@ excerpt: "Un organello con misteriose origini e funzioni fondamentali. Scopriamo
 category: ITA
 header:
     overlay_color: "#000"
-    overlay_filter: "0.5"
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/e/e4/Mitochondria%2C_mammalian_lung_-_TEM_%282%29.jpg 
     caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/e/e4/Mitochondria%2C_mammalian_lung_-_TEM_%282%29.jpg)"
 ---
