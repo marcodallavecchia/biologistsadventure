@@ -4,8 +4,10 @@ excerpt: "Broadcasting surprising experiences, deep thoughts and hidden learning
 permalink: /podcast/
 layout: single
 ---
+<figure style="width: 20px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/podcast_thumbnail.png" alt="">
+</figure> 
 <p>
-    <img src="/assets/images/podcast_thumbnail.png" alt="we live therefore we learn podcast" style="margin:0px 20px;float:left;width:120px">
     Check out We live, therefore we learn podcast, where me and <a href="https://vfonsecad.github.io/dynamistics/">Valeria</a> talk about our surprising experiences, deep thoughts and hidden learnings!
 </p>
 <br>                                                                                                                        
