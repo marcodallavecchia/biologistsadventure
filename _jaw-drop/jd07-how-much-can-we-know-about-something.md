@@ -20,11 +20,13 @@ For example, when you think you know yourself, what do you actually think you kn
 
 Ok, but what does it mean? Well, you know that we all originate from a single cell that in our case gets originated from an act of fecundation right? For this worm, everything is the same with the difference that it can reproduce asexually as well. So to get all of our cells from that single original cell, you might imagine there is a lot of work to be done.
 
-It turns out that C. elegans has up to 1031 cells in adult males (but is normally 959 in adult hermaphrodites). I am not saying random numbers, we mean that adults have ALWAYS that number of cells in their body if they are not affected by some genetic condition or illness. We don’t only know how many cells they have but what exactly every single one of those cells does and is in the body. If that doesn’t sound amazing and utterly outstanding at first there you go:
-<figure style="width: 200px" class="align-left rotate90">
+<figure style="width: 200px" class="align-left">
         <img src="https://wormatlas.org/images/embryoniclineage.jpg" alt="">
         <figcaption>In this image you can see the development tree of each individual cell present in our worm. (Source: wormatlas.org) </figcaption>
 </figure> 
+
+It turns out that C. elegans has up to 1031 cells in adult males (but is normally 959 in adult hermaphrodites). I am not saying random numbers, we mean that adults have ALWAYS that number of cells in their body if they are not affected by some genetic condition or illness. We don’t only know how many cells they have but what exactly every single one of those cells does and is in the body. If that doesn’t sound amazing and utterly outstanding at first check the image of the left!
+
 What you see in this graph is every cell division that occurs from a single cell, the embryo, and the adult organism. From top to bottom you can see how every branching in the flowchart doubles the quantities of cells. Every cluster of cells represents a different functional department of the tissues formed by these cells.
 
 This is crazy impressive. From the starting embryo, we can track down every single cell in that organism!! Okay, it doesn’t have that many cells but still, this is mindblowing!
