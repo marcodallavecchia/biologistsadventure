@@ -10,7 +10,7 @@ toc: true
   <figcaption>Hello! This is me in Bogotà, Colombia!</figcaption>
 </figure>
 
-#### (ENGLISH DESCRIPTION BELOW)
+**(ENGLISH DESCRIPTION BELOW)**
 ### ++ITALIANO++
 
 Ciao a tutti!
