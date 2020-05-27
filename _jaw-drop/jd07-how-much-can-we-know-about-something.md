@@ -3,8 +3,6 @@ title: "Jaw Drop #7 – How much can we know about something? The C. elegans sto
 excerpt: "7th post of my jaw drop collection"
 category: ENG
 header:
-    overlay_color: "#000"
-    overlay_filter: "0.5"
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/c/cc/Adult_Caenorhabditis_elegans.jpg
     caption: "Image source: [**Wormatlas, Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/c/cc/Adult_Caenorhabditis_elegans.jpg)"
 ---

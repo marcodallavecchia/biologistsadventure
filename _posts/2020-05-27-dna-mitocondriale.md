@@ -1,6 +1,7 @@
 ---
 title: "Cos'è il mitocondrio e cosa se ne fa di un DNA?"
 categories: ITA
+excerpt: "Un organello con misteriose origini e funzioni fondamentali. Scopriamolo assieme."
 header:
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/e/e4/Mitochondria%2C_mammalian_lung_-_TEM_%282%29.jpg 
 ---

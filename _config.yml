@@ -298,8 +298,8 @@ defaults:
       path: ""
       type: jaw-drop
     values:
-      layout: splash
-      author_profile: false
+      layout: single
+      author_profile: true
       share: true
   # _muting-questions
   - scope:
