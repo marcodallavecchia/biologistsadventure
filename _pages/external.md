@@ -3,6 +3,7 @@ title: "Work I did for others"
 excerpt: "Works I did for others"
 permalink: /external/
 layout: single
+toc: true
 ---
 <h3> Newsletter per la Fondazione Italiana per la lotta al Neuroblastoma</h3>
 <p>Sto scrivendo una serie di articoli divulgativi, incentrati sui concetti basi di biologia cellulare per spiegare meglio e fare chiarezza su com'è fatta una cellula, quali sono i suoi funzionamenti e come queste possono diventare tumori.</p>
