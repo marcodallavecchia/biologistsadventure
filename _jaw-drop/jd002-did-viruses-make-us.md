@@ -12,7 +12,7 @@ toc: true
 ### A viral grave
 I really want to talk about this Jaw Drop since I think people don't really talk about it enough. I feel like it took me some time to digest this idea and all of its consequences, so let me give it a try.
 
-In my [What’s in your genome? Post](https://marcodallavecchia.github.io/biologistsadventure/what-in-your-genome) we discussed the idea that every organism’ DNA is populated by a bunch of different “stuff” besides the normal genes we need to survive. A big part of these are derived from viruses, almost like a viral grave, where viruses deposit and merge with the soil itself.
+In my [What’s in your genome? Post](https://marcodallavecchia.github.io/biologistsadventure/eng/what-in-your-genome) we discussed the idea that every organism’ DNA is populated by a bunch of different “stuff” besides the normal genes we need to survive. A big part of these are derived from viruses, almost like a viral grave, where viruses deposit and merge with the soil itself.
 
 Some time ago I found this paper and my _jaw dropped_!
 
