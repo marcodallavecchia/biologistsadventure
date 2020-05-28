@@ -304,6 +304,8 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      read_time: true
+      comments: true
   # _astounding-questions
   - scope:
       path: ""
@@ -312,6 +314,8 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      read_time: true
+      comments: true
   # _evolution-pills
   - scope:
       path: ""
@@ -320,3 +324,5 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      read_time: true
+      comments: true
