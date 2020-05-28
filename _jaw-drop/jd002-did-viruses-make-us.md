@@ -12,7 +12,7 @@ toc: true
 ### A viral grave
 I really want to talk about this Jaw Drop since I think people don't really talk about it enough. I feel like it took me some time to digest this idea and all of its consequences, so let me give it a try.
 
-In my What’s in your genome? post we discussed the idea that every organism’ DNA is populated by a bunch of different "stuff" besides the normal genes we need to survive. A big part of these are derived from viruses, almost like a viral grave, where viruses deposit and merge with the soil itself.
+In my [What’s in your genome? Post][post-link] we discussed the idea that every organism’ DNA is populated by a bunch of different “stuff” besides the normal genes we need to survive. A big part of these are derived from viruses, almost like a viral grave, where viruses deposit and merge with the soil itself.
 
 Some time ago I found this paper and my _jaw dropped_!
 
@@ -32,10 +32,12 @@ What the authors are here suggesting is that a viral gene, coding for syncytin d
 
 > “This gene, encoding a protein that we have called syncytin, is the envelope gene of a recently identified human endogenous defective retrovirus [...] Our data indicate that syncytin may mediate placental cytotrophoblast fusion in vivo, and thus may be important in human placental morphogenesis.”  
 
-If you still don’t understand what it’s going on here let me clear it for you. I already said that they found that this syncytin protein give the host a new function, what is this new function? Well, is _placental cytotrophoblast fusion_. This, without being too technical, is the fusion between the placenta of the mother and the newborn tissues necessary for the normal birth and growth of a new baby. **This could means that without that viral gene we couldn’t have a new child as we conceive today, or maybe we couldn’t have it at all**. This means that the retroviral infection mediated a HUGE step in our evolution because before that infection there were no animals capable of passing nutrient to the child through the placenta. I cite from Wikipedia:
+If you still don’t understand what it’s going on here let me clear it for you. I already said that they found that this syncytin protein give the host a new function, what is this new function? Well, is _placental cytotrophoblast fusion_. This, without being too technical, is the fusion between the placenta of the mother and the newborn tissues necessary for the normal birth and growth of a new baby. **This could mean that without that viral gene we couldn’t have a new child as we conceive today, or maybe we couldn’t have it at all**. This means that the retro viral infection mediated a HUGE step in our evolution because before that infection there were no animals capable of passing nutrient to the child through the placenta. I cite from Wikipedia:
 
 >“The largest group of mammals, the placentals, have a placenta, which enables the feeding of the fetus during gestation.” 
 
 And guess what? We Humans are part of this group of mammals!
 
 Do you realize that without this viral gene we would have never evolved??? If this is true, syncytin had a colossal importance in our lives. So at least for that, be glad that virus exist for once and let me tell you another story...
+
+[post-link]: {{ "" | relative_url }}{% post_url 2020-05-25-what-in-your-genome.md %}
