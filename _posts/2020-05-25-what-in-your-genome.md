@@ -4,8 +4,8 @@ excerpt: "on DNA, genomes and viral parasites"
 category: ENG
 header:
     overlay_color: "#000"
-    overlay_image: https://en.wikipedia.org/wiki/Karyotype#/media/File:Sky_spectral_karyotype.png 
-    caption: "Image source: [**Wikipedia**](https://en.wikipedia.org/wiki/Karyotype#/media/File:Sky_spectral_karyotype.png)"
+    overlay_image: https://upload.wikimedia.org/wikipedia/commons/3/35/Sky_spectral_karyotype.png
+    caption: "Image source: [**Wikimedia Commons**](https://en.wikipedia.org/wiki/Karyotype#/media/File:Sky_spectral_karyotype.png)"
 toc: true
 ---
 ### The treasure's hunt in the Genome
