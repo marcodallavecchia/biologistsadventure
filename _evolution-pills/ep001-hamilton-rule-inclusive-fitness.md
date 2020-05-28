@@ -37,7 +37,7 @@ Think about it. I want to maximize the genes I want to transmit to the next gene
 
 Here it comes Hamilton’s rule (thanks to W.D. Hamilton, a great guy that had a couple of great ideas). If two individuals are highly related, a behavior that gives your kin advantage in producing offspring can be promoted by evolution even if that means not reproducing directly yourself (Ant workers and soldiers never reproduce for all their lives. They just help defend and gathering resource for the colony. Only the queen will mate and have offspring. But workers are also queen’s offspring right?).
 
-The formula goes as it follows: $$B \cdot r > C$$ i.e. The behavior (such as worker in a colony) will be favored if Benefits (B) multiplied by the coefficient of relatedness (r) are greater that the costs (C).
+The formula goes as it follows: B &times; r &gt; C i.e. The behavior (such as worker in a colony) will be favored if Benefits (B) multiplied by the coefficient of relatedness (r) are greater that the costs (C).
 What exactly is r? Is a measure of how closely related two individuals are. In case of brothers we said before, it would be 0.5, because they share 50% of genes. Mother and offspring? Also 0.5. Me and my cousin? 0.25 (1/4). It is defined as the proportion of genes transmitted by common descent. So the inequality will hold when either B is high, r is high or both B and r are.
 
 Selection for this kind of traits that benefit kin more than the individual itself is called kin selection.
