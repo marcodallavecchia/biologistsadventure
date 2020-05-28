@@ -25,7 +25,7 @@ I know I’m getting ridiculous but the actual answer, in my opinion, is that pe
 In my opinion, two are the reasons why most people struggle to grasp the gravity of the process.
 
 1. The time scale of the change is too long. The length of human lives, and even of few generations, is hardly nothing compared to geological, environmental or evolutionary time scales. That makes it only harder to appreciate what we are talking about. One thing, though, is that we are getting so close to the brink of no-return that now we can appreciate the effects even in our lifetime. Although this helps us understand what we are going through, it is definitely not a good sign for the process itself: it means that we don’t have many years ahead of us to make a change.
-2. Most implications are ecological, and most people can’t appreciate them without some formal training. On this, I’ll write another post.
+2. Most implications are ecological, and most people can’t appreciate them without some formal training. On this, [I’ll write another post.](https://marcodallavecchia.github.io/biologistsadventure/eng/why-is-ecology-important-for-global-warming/)
  
 ### Why should we care about the consequences?
 Let’s check some consequences, future or ongoing, of global warming. Acidification of the oceans, biodiversity loss, raising water sea levels and more extreme weather. Why should we really care about all these?? Of course, I’m a biologist and as far as I’m concerned the preservation of our Earth like it was before we got here would be a great enough reason to act. But what about all the people that barely understand the implications and that couldn’t care less on how many species we are destroying per day, why should they care?
