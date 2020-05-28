@@ -270,7 +270,7 @@ collections:
   jaw-drop:
     output: true
     permalink: /:collection/:path/
-  muting-questions:
+  astounding-questions:
     output: true
     permalink: /:collection/:path/
 # Defaults
