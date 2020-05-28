@@ -12,7 +12,7 @@ toc: true
 ### A viral grave
 I really want to talk about this Jaw Drop since I think people don't really talk about it enough. I feel like it took me some time to digest this idea and all of its consequences, so let me give it a try.
 
-In my [What’s in your genome? Post][post-link] we discussed the idea that every organism’ DNA is populated by a bunch of different “stuff” besides the normal genes we need to survive. A big part of these are derived from viruses, almost like a viral grave, where viruses deposit and merge with the soil itself.
+In my [What’s in your genome? Post](https://marcodallavecchia.github.io/biologistsadventure/2020-05-25-what-in-your-genome) we discussed the idea that every organism’ DNA is populated by a bunch of different “stuff” besides the normal genes we need to survive. A big part of these are derived from viruses, almost like a viral grave, where viruses deposit and merge with the soil itself.
 
 Some time ago I found this paper and my _jaw dropped_!
 
@@ -39,5 +39,3 @@ If you still don’t understand what it’s going on here let me clear it for yo
 And guess what? We Humans are part of this group of mammals!
 
 Do you realize that without this viral gene we would have never evolved??? If this is true, syncytin had a colossal importance in our lives. So at least for that, be glad that virus exist for once and let me tell you another story...
-
-[post-link]: {{ "" | relative_url }}{% post_url 2020-05-25-what-in-your-genome.md %}
