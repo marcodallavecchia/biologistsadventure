@@ -1,6 +1,6 @@
 ---
 title: "Astounding Question #5 - What is life (and species or gene)?"
-excerpt: "on ageing, dying and evolution"
+excerpt: "on life, species and genes"
 category: ENG
 header:
     overlay_color: "#000"
