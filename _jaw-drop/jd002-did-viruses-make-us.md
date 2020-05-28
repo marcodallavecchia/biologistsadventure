@@ -18,7 +18,7 @@ Some time ago I found this paper and my _jaw dropped_!
 
 <figure style="width: 500px" class="align-center">
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/synctin_virus.png" alt="">
-        <figcaption>Source: [Nature, DOI: 10.1038/35001608](https://www.nature.com/articles/35001608) </figcaption>
+        <figcaption>Source: <a href="https://www.nature.com/articles/35001608">Nature, DOI: 10.1038/35001608</a> </figcaption>
 </figure> 
 
 ### The hidden virus-host interactions
