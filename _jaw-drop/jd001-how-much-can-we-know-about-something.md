@@ -1,6 +1,6 @@
 ---
 title: "Jaw Drop #1 – How much can we know about something? The C. elegans story."
-excerpt: "on _C. elegans_ and knowledge"
+excerpt: "on worms and knowledge"
 category: ENG
 header:
     overlay_color: "#000"
