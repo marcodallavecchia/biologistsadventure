@@ -3,7 +3,6 @@ title: "Astounding Question #2 - Why is global warming actually bad?"
 excerpt: "on global warming and responsibilities"
 category: ENG
 header:
-    overlay_color: "#000"
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/c/c3/August_2010_CME_SDO_Multi-Wavelength.jpg
     caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/c/c3/August_2010_CME_SDO_Multi-Wavelength.jpg)"
 toc: true

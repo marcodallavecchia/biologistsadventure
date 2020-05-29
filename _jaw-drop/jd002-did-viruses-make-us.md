@@ -3,7 +3,6 @@ title: "Jaw Drop #2 – Did Viruses make us?"
 excerpt: "on viruses and our origins"
 category: ENG
 header:
-    overlay_color: "#000"
     overlay_filter: "0.5"
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ebola_Virus_-_Electron_Micrograph.tiff/lossy-page1-1024px-Ebola_Virus_-_Electron_Micrograph.tiff.jpg
     caption: "Image source: [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:Ebola_Virus_-_Electron_Micrograph.tiff)"

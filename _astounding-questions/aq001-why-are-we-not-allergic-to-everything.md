@@ -3,7 +3,6 @@ title: "Astounding Question #1 - Why are we not allergic to everything?"
 excerpt: "on immunology and allergies"
 category: ENG
 header:
-    overlay_color: "#000"
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/7/77/Sneeze.JPG
     caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/7/77/Sneeze.JPG)"
 toc: true

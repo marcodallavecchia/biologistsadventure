@@ -3,7 +3,6 @@ title: "Astounding Question #3 - Are we parasites?"
 excerpt: "on ecology and parasites"
 category: ENG
 header:
-    overlay_color: "#000"
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg
     caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg)"
 toc: true

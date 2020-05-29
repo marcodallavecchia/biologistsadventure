@@ -3,7 +3,6 @@ title: "Jaw Drop #1 – How much can we know about something? The C. elegans sto
 excerpt: "on worms and knowledge"
 category: ENG
 header:
-    overlay_color: "#000"
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/c/cc/Adult_Caenorhabditis_elegans.jpg
     caption: "Image source: [**Wormatlas, Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/c/cc/Adult_Caenorhabditis_elegans.jpg)"
 toc: true

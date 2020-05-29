@@ -3,7 +3,6 @@ title: "Why is ecology important for global warming?"
 excerpt: "on ecology and global warming"
 category: ENG
 header:
-    overlay_color: "#000"
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/d/d4/ET_Afar_asv2018-01_img48_Dallol.jpg
     caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/d/d4/ET_Afar_asv2018-01_img48_Dallol.jpg)"
 toc: true

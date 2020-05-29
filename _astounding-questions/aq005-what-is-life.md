@@ -3,7 +3,6 @@ title: "Astounding Question #5 - What is life (and species or gene)?"
 excerpt: "on life, species and genes"
 category: ENG
 header:
-    overlay_color: "#000"
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/b/b9/Halictus_bee_on_flower-2.jpg
     caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/b/b9/Halictus_bee_on_flower-2.jpg)"
 toc: true

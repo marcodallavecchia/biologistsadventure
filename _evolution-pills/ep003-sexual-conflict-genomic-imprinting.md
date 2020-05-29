@@ -3,7 +3,6 @@ title: "Evolution Pill #3 - Sexual conflict and genomic imprinting"
 excerpt: "on evolution and ethology"
 category: ENG
 header:
-    overlay_color: "#000"
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/5/53/MalePeacockSpider.jpg
     caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/5/53/MalePeacockSpider.jpg)"
 toc: true

@@ -3,7 +3,6 @@ title: "Evolution Pill #1 - Hamilton’s rule and inclusive fitness"
 excerpt: "on evolution and ethology"
 category: ENG
 header:
-    overlay_color: "#000"
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/8/8c/Inupiat_Family_from_Noatak%2C_Alaska%2C_1929%2C_Edward_S._Curtis_%28restored%29.jpg
     caption: "Image source: [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:Inupiat_Family_from_Noatak,_Alaska,_1929,_Edward_S._Curtis_(restored).jpg#/media/File:Inupiat_Family_from_Noatak,_Alaska,_1929,_Edward_S._Curtis_(restored).jpg)"
 toc: true
