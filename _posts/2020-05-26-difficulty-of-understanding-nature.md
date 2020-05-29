@@ -3,12 +3,11 @@ title: "The difficulty of understanding nature"
 excerpt: "on nature, science and understanding"
 category: ENG
 header:
-    overlay_color: "#EAEAEA"
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/e/ec/Winter_in_%27It_Wikelsl%C3%A2n._Locatie%2C_De_Alde_Feanen_in_Friesland_01.jpg
     caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/e/ec/Winter_in_%27It_Wikelsl%C3%A2n._Locatie%2C_De_Alde_Feanen_in_Friesland_01.jpg)"
 toc: true
 ---
-## Humans are just another species
+### Humans are just another species
 A precious thing that being a biologist gives you is the ability to see the world in a different way. As you can imagine this includes many different aspects, most of them very subjective. One of my favorite special views is how we see our place in the universe. By our place I mean how I see humans amongst all species.
 
 It takes years of study and understanding to finally have a glance into what being a living being means. Understanding how deeply connected the biosphere is and how stunningly intricated and smartly designed life can be is an immensly hard process. That’s why I’m very fond of people that can appreciate the right place of the human species in the world.
