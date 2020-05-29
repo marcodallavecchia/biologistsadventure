@@ -4,6 +4,7 @@ excerpt: "on evolution and genetics"
 category: ENG
 header:
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/8/8b/%C3%81cido_desoxirribonucleico_%28DNA%29.png
+    overlay_filter: "0.5"
     caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/8/8b/%C3%81cido_desoxirribonucleico_%28DNA%29.png)"
 toc: true
 ---
