@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Marco Dalla Vecchia"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Biochemistry and Biotechnology PhD student at KUL."
+  bio              : "PhD student at KUL.\nBiochemistry and Biotechnology."
   location         : "Leuven, Belgium"
   email            :
   links:
