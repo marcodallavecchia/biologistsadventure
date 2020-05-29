@@ -1,6 +1,6 @@
 ---
 title: "Astounding Question #4 - Why do we age?"
-excerpt: "on ageing, dying and evolution"
+excerpt: "on aging, dying and evolution"
 category: ENG
 header:
     overlay_color: "#000"
