@@ -2,6 +2,11 @@
 title: "Astounding Question #1 - Why are we not allergic to everything?"
 excerpt: "on immunology and allergies"
 category: ENG
+tags:
+    - allergy
+    - immunity
+    - antibody
+    - immunology
 header:
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/7/77/Sneeze.JPG
     caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/7/77/Sneeze.JPG)"

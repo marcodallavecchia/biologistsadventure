@@ -2,6 +2,11 @@
 title: "Jaw Drop #3 – A DNA's orchestra"
 excerpt: "on DNA and evolution"
 category: ENG
+tags:
+    - DNA
+    - gene
+    - development
+    - evolution
 header:
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ebola_Virus_-_Electron_Micrograph.tiff/lossy-page1-1024px-Ebola_Virus_-_Electron_Micrograph.tiff.jpg
     caption: "Image source: [**Wikimedia Commons**](https://commons.wikimedia.org/wiki/File:Ebola_Virus_-_Electron_Micrograph.tiff)"

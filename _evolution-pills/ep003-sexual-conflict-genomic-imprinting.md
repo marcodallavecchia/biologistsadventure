@@ -2,6 +2,11 @@
 title: "Evolution Pill #3 - Sexual conflict and genomic imprinting"
 excerpt: "on evolution and ethology"
 category: ENG
+tags:
+    - genomic imprinting
+    - evolution
+    - ethology
+    - behaviour
 header:
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/5/53/MalePeacockSpider.jpg
     caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/5/53/MalePeacockSpider.jpg)"

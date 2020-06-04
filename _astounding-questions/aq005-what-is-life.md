@@ -2,6 +2,12 @@
 title: "Astounding Question #5 - What is life (and species or gene)?"
 excerpt: "on life, species and genes"
 category: ENG
+tags:
+    - life
+    - species
+    - gene
+    - definition
+    - thinking
 header:
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/b/b9/Halictus_bee_on_flower-2.jpg
     caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/b/b9/Halictus_bee_on_flower-2.jpg)"

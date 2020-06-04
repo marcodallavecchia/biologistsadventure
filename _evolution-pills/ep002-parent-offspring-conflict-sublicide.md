@@ -2,6 +2,12 @@
 title: "Evolution Pill #2 - Parent-offspring conflicts and Siblicide"
 excerpt: "on evolution and ethology"
 category: ENG
+tags:
+    - evolution
+    - ethology
+    - siblicide
+    - fitness
+    - behaviour
 header:
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/3/30/Vultures_in_the_nest%2C_Orchha%2C_MP%2C_India_edit.jpg
     caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/3/30/Vultures_in_the_nest%2C_Orchha%2C_MP%2C_India_edit.jpg)"

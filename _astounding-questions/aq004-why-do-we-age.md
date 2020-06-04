@@ -2,6 +2,11 @@
 title: "Astounding Question #4 - Why do we age?"
 excerpt: "on aging, dying and evolution"
 category: ENG
+tags:
+    - aging
+    - evolution
+    - theory
+    - mutation
 header:
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/a/ad/Old_man%2C_Bihar%2C_India%2C_04-2012.jpg
     caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/a/ad/Old_man%2C_Bihar%2C_India%2C_04-2012.jpg)"

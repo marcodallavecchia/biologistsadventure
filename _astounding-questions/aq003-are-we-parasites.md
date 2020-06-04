@@ -2,6 +2,10 @@
 title: "Astounding Question #3 - Are we parasites?"
 excerpt: "on ecology and parasites"
 category: ENG
+tags:
+    - ecology
+    - parasite
+    - virus
 header:
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg
     caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg)"

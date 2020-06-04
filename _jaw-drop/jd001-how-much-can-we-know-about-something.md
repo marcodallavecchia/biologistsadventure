@@ -2,6 +2,12 @@
 title: "Jaw Drop #1 – How much can we know about something? The C. elegans story."
 excerpt: "on worms and knowledge"
 category: ENG
+tags:
+    - worm
+    - c. elegans
+    - science
+    - research
+    - knowledge
 header:
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/c/cc/Adult_Caenorhabditis_elegans.jpg
     caption: "Image source: [**Wormatlas, Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/c/cc/Adult_Caenorhabditis_elegans.jpg)"

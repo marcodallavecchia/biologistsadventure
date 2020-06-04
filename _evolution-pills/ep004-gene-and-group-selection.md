@@ -2,6 +2,12 @@
 title: "Evolution Pill #4 - Gene and group selection (with a touch of selfish gene)"
 excerpt: "on evolution and genetics"
 category: ENG
+tags:
+    - gene
+    - group selection
+    - evolution
+    - ethology
+    - selfish gene
 header:
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/8/8b/%C3%81cido_desoxirribonucleico_%28DNA%29.png
     overlay_filter: "0.5"
