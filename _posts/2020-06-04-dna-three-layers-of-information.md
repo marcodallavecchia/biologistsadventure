@@ -3,6 +3,7 @@ title: "DNA: three layers of information!"
 excerpt: "on DNA, genetics and regulation"
 category: ENG
 header:
+    overlay_filter: "0.5"
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/d/db/Nucleosome_1KX5_2.png
     caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/d/db/Nucleosome_1KX5_2.png)"
 toc: true
@@ -23,9 +24,10 @@ Genes can be expressed differently in many different ways, for example, changing
 #### The second layer
 The genetic sequence although it is not the only regulatory aspect of DNA, actually is just secondary to, what I would call the main switcher, chromatin organization. This is the second layer of information. DNA is not a mere string of its letters but it’s actually **wrapped and coiled in intricated ways allowing further regulation** from the structural point of view.
 
-<figure style="width: 500px" class="align-center">
+<figure style="width: 700px" class="align-center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Chromatin_Structures.png" alt="">
-        <figcaption>Here you can see the intricated structure in which DNA is packed. Clearly the DNA image of the simple double-helix is very simplified. Source [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/4/4b/Chromatin_Structures.png)</figcaption>
+        <figcaption>Here you can see the intricated structure in which DNA is packed. Clearly the DNA image of the simple double-helix is very simplified. Source <a href="https://upload.wikimedia.org/wikipedia/commons/4/4b/Chromatin_Structures.png">Wikimedia Commons</a>.
+        </figcaption>
 </figure> 
 
 Tight coiling or loose coiling don’t allow or allow enzymes responsible for transcription and translation to do their jobs. Thus, chromatin condensation is responsible for a big component of gene regulation.
