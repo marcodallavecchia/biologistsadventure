@@ -10,7 +10,7 @@ tags:
     - medicine
 header:
     overlay_filter: "0.5"
-    overlay_image: https://upload.wikimedia.org/wikipedia/commons/d/db/Nucleosome_1KX5_2.png
+    overlay_image: https://upload.wikimedia.org/wikipedia/commons/5/59/Staphylococcus_aureus_%28AB_Test%29.jpg
     caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/5/59/Staphylococcus_aureus_%28AB_Test%29.jpg)"
 toc: true
 ---
@@ -23,7 +23,7 @@ That’s super easy: **evolution**. Bacteria are constantly evolving, so abundan
 
 <figure style="width: 300px" class="align-left">
         <img src="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/bin/PTJ4004277-f1.jpg" alt="">
-        <figcaption>A timeline of antibiotics resistance, and how it has been a known problem for a long time. Source <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/figure/f1-ptj4004277/">PubMed</a>.
+        <figcaption>A timeline of antibiotics resistance, and how it has been a known problem for a long time. Source <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4378521/figure/f1-ptj4004277/">The antibiotic resistance crisis</a>.
         </figcaption>
 </figure> 
 
