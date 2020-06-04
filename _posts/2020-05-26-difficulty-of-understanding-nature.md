@@ -2,6 +2,11 @@
 title: "The difficulty of understanding nature"
 excerpt: "on nature, science and understanding"
 category: ENG
+tags:
+    - nature
+    - understanding
+    - nature fallacy
+    - ethics
 header:
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/e/ec/Winter_in_%27It_Wikelsl%C3%A2n._Locatie%2C_De_Alde_Feanen_in_Friesland_01.jpg
     caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/e/ec/Winter_in_%27It_Wikelsl%C3%A2n._Locatie%2C_De_Alde_Feanen_in_Friesland_01.jpg)"

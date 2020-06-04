@@ -2,6 +2,11 @@
 title: "What's in your genome?"
 excerpt: "on DNA, genomes and viral parasites"
 category: ENG
+tags:
+    - DNA
+    - genome
+    - virus
+    - pseudogene
 header:
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/3/35/Sky_spectral_karyotype.png
     caption: "Image source: [**Wikimedia Commons**](https://en.wikipedia.org/wiki/Karyotype#/media/File:Sky_spectral_karyotype.png)"

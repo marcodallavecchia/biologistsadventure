@@ -2,6 +2,12 @@
 title: "DNA: three layers of information!"
 excerpt: "on DNA, genetics and regulation"
 category: ENG
+tags:
+    - DNA
+    - genome
+    - genetics
+    - gene
+    - epigenetics
 header:
     overlay_filter: "0.5"
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/d/db/Nucleosome_1KX5_2.png
