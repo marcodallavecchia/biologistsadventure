@@ -9,7 +9,6 @@ tags:
     - disease
     - medicine
 header:
-    overlay_filter: "0.5"
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/5/59/Staphylococcus_aureus_%28AB_Test%29.jpg
     caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/5/59/Staphylococcus_aureus_%28AB_Test%29.jpg)"
 toc: true
