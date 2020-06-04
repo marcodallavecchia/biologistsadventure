@@ -6,9 +6,10 @@ layout: single
 toc: true
 ---
 ### Currently
-"Evolutions: Fifteen Myths That Explain Our World" by Oren Harman
+"_Evolutions: Fifteen Myths That Explain Our World_" by Oren Harman
 
-Recently finished: “La scienza non ha bisogno di Dio” by Edoardo Boncinelli. An interesting but brief discussion on what we know about our world through science. It argues that the current hypothesis and explanations that we have based on data, are enough to remove the need for a God.
+### Recently finished
+“_La scienza non ha bisogno di Dio_” by Edoardo Boncinelli. An interesting but brief discussion on what we know about our world through science. It argues that the current hypothesis and explanations that we have based on data, are enough to remove the need for a God.
 
 ### Past adviced readings
 
