@@ -8,5 +8,7 @@ main:
     url: /podcast/
   - title: "External"
     url: /external/
-  - title: "About Me"
+  - title: "About"
     url: /about/
+  - titel: "Reading"
+    url: /reading-list/
