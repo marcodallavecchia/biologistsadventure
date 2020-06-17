@@ -6,13 +6,14 @@ layout: single
 toc: true
 ---
 ### Currently
-"_Evolutions: Fifteen Myths That Explain Our World_" by Oren Harman
+"_Spillover: Animal infections and the next human pandemic_" by David Quammen
 
 ### Recently finished
-“_La scienza non ha bisogno di Dio_” by Edoardo Boncinelli. An interesting but brief discussion on what we know about our world through science. It argues that the current hypothesis and explanations that we have based on data, are enough to remove the need for a God.
+“_Sapiens: a brief history of humankind_” by Yuval Noah Harari. Where do I start? A legendary book of a genius. Harari managed to condense down and illustrate in an extremely engaging way the history and evolution of _Homo sapiens_ from our origins to modern world. In this tale we are exposed to the biggest invention of humans: the ability of telling stories and believing in immaginary constructs.
 
 ### Past adviced readings
 
+- <a href="https://images-na.ssl-images-amazon.com/images/I/511geOL29OL._SX331_BO1,204,203,200_.jpg" alt="The vital question" style="margin:0px 15px;float:left;height:105px"></a> “Evolutions: Fifteen Myths That Explain Our World” by Oren Harman. A collection of tale-like essays on our world and its history. From the origin of the moon to our life, Harman tells us stories like we are being spoken directly by the subject in question.
 - <a href="https://www.amazon.com/Vital-Question-Evolution-Origins-Complex/dp/0393352978/ref=sr_1_1?keywords=the+vital+question&qid=1573676197&sr=8-1"><img src="https://images-na.ssl-images-amazon.com/images/I/41j7md25wSL._SX331_BO1,204,203,200_.jpg" alt="The vital question" style="margin:0px 15px;float:left;height:105px"></a> “The vital question” by Nick Lane. This book was really a mind-blown to me. I will definitely try to write a whole blog post about it. But briefly, Lane tries to explain with biochemical and evolutionary principles how life is the way it is. Outstanding! 
 - <a href="https://www.amazon.com/Universe-Nothing-There-Something-Rather/dp/1451624468/ref=sr_1_1?crid=2H932RW1KZY47&keywords=a+universe+from+nothing+by+lawrence+krauss&qid=1573723682&sprefix=a+universe+from%2Caps%2C218&sr=8-1"><img src="https://images-na.ssl-images-amazon.com/images/I/51Gf5cmUSnL._SX326_BO1,204,203,200_.jpg" alt="A universe from nothing" style="margin:0px 15px;float:left;height:105px"></a> “A universe from nothing” by Lawrence Krauss. How can something come about from nothing? An interesting explanation of the physics of the existing while trying to mine some of the most radical religious claims about the origin of the universe.
 - <a href="https://www.amazon.com/Acquiring-Genomes-Theory-Origins-Species/dp/0465043917/ref=sr_1_1?keywords=acquiring+genomes&qid=1573723783&sr=8-1"><img src="https://images-na.ssl-images-amazon.com/images/I/511m39Aw5JL._SX328_BO1,204,203,200_.jpg" alt="Acquiring Genomes" style="margin:0px 15px;float:left;height:105px"></a> “Acquiring Genomes, a theory of the origins of species” by Lynn Margulis and Dorion Sagan. A provocative, fascinating and crazy theory accounting for the origin of species. Symbiogenesis is the key. Could modern organisms have arisen not only through gradual selection of mutations but also through “jumps” in history thanks to merging of genomes due to symbiogenesis?
