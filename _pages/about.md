@@ -15,7 +15,7 @@ toc: true
 
 Ciao a tutti!
 
-Sono un biologo molecolare, 26 anni, e attualmente residente in Belgio. Sono fiero di essere un dottorato in biochimica che studia come le cellule muoiono e decidono di morire usando il mio caro amico: il microscopio!
+Sono un biologo molecolare, 26 anni, ed attualmente residente in Belgio. Sono un fiero dottorando il biochimica e biotecnologia che studia come tante piccole cose si muovono dentro a singole cellule usando lo strumento più stereotipico di uno scienziato: il microscopio!
 
 Partito come progetto personale in inglese, ho cominciato a scrivere in italiano per dare il mio contributo ad un po’ di divulgazione scientifica.
 
@@ -29,8 +29,8 @@ Vi do il benvenuto sul mio Blog, seguitemi nelle mie avventure da biologo: my Bi
 
 Hi there!
 
-I’m 26yo and I’m currently a PhD student at the KU Leuven University in Belgium after graduating in Molecular Biology at the University of Padua. I’m studying how cell die and how they decide to die using my dear friend, the microscope. I’m really fond of everything regarding Nature and many biological aspects of it but I really like other science as well, such as physics and chemistry! I try to keep myself thinking about the world. I keep pushing on being curious and explore novelty.
+I’m Marco, 26yo, molecular biologist and currently a PhD student at the KU Leuven University in Belgium. I’m studying how very small things move inside single cells using scientists' most stereotipic instrument: the microscope! I'm really fond of science, especially biology, chemistry and physicics. I try to keep myself curious and constantly thinking about the world.
 
-Since I started to read many books about science and biology in general, I decided to open this blog. I don’t have any particular theme for what will be my posts. I’ll probably write about my personal discoveries that I’ll encounter throughout my studies but also many thing that I find interesting, strange or profound in Biology. Sometimes I could write a review of some book that I’ll read, or just a personal meditation about something.
+I started this blog to start sharing my points of view on important topics, interesting theories and discoveries and give in general my contribution to science communication and the fight against misinformation.s
 
-Well I’m Marco. Let me tell you a story…
+Embark in my journey on my biologist's adventures. Let me tell you a story…
