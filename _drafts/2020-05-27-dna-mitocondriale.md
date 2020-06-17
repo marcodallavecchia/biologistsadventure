@@ -6,9 +6,6 @@ header:
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/e/e4/Mitochondria%2C_mammalian_lung_-_TEM_%282%29.jpg 
     caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/e/e4/Mitochondria%2C_mammalian_lung_-_TEM_%282%29.jpg)"
 ---
-
-Benvenuti! Prima, dopo o durante la lettura di questo post, abbiate cura di guardare il video associato di LDS!!
-
 Vi siete mai chiesti dove troviamo l’energia che ci serve? O meglio, come ricaviamo energia dal cibo che mangiamo e digeriamo?
 
 Per rispondere dovremmo andare ad ore e ore di lezioni di fisiologia e biochimica ma ci limiteremo a dire che un tipico organismo cerca e ingeste dei nutrienti dalla quale vuole ricavare materie prime ed energia.
