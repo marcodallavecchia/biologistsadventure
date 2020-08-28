@@ -15,4 +15,5 @@ toc: true
 <li>Articolo 05: <a href="https://www.neuroblastoma.org/la-cellulla-una-vera-e-propria-impresa">La fabbrica più piccola al mondo: la cellula</a></li>
 <li>Articolo 06: <a href="https://www.neuroblastoma.org/ognuno-al-suo-posto">Ognuno al suo posto</a></li>
 <li>Articolo 07: <a href="https://www.neuroblastoma.org/le-cellule-consapevoli-e-indipendenti/">Consapevoli ed indipendenti: la cellula come non l'avevi mai vista</a></li>
+<li>Articolo 08: <a href="https://www.neuroblastoma.org/news/nessuno-mi-capisce-un-tumore-e-una-incompresa-cellula-ribelle/">Nessuno mi capisce: il tumore, una cellula incompresa e ribelle</a></li>
 </ol>
