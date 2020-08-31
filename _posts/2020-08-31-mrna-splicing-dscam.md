@@ -17,7 +17,7 @@ header:
 toc: true
 ---
 
-If you took any biology class in highschool that included a little bit of cell biology, it’s very likely that you know the central dogma of molecular biology. That is the information flow from our genes in DNA to RNA through transcription and to Proteins through translation. This has been considered the central dogma since every organism based on DNA uses this flow. Even though we’ve seen in Gene linkage as a tool to detect positive selection on genes and What’s in your genome? posts that an enzime called reverse transcriptase can do the opposite, the central dogma is arguably one of the biggest discoveries in the molecular biology era.
+If you took any biology class in highschool that included a little bit of cell biology, it’s very likely that you know the central dogma of molecular biology. That is the information flow from our genes in DNA to RNA through transcription and to Proteins through translation. This has been considered the central dogma since every organism based on DNA uses this flow. Even though we’ve seen in <a href="https://marcodallavecchia.github.io/biologistsadventure/eng/what-in-your-genome/">What’s in your genome?</a> that an enzime called reverse transcriptase can do the opposite, the central dogma is arguably one of the biggest discoveries in the molecular biology era.
 
 What you probably also remember from bio class is something called RNA splicing. The process through which RNA is processed before transcription and through which non-coding parts are eliminated. Instead of explaining all the details I’ll leave a scheme here:
 
