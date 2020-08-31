@@ -20,7 +20,7 @@ Why are plants green? This is a classic question that even children start asking
 
 But is it wrong?? Not really, it's just missing a couple of details. 
 
-<figure style="width: 300px" class="align-center">
+<figure style="width: 500px" class="align-center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Chlorophyll_ab_spectra-en.svg/330px-Chlorophyll_ab_spectra-en.svg.png" alt="">
         <figcaption>Chlorophyll absorption spectrum. Source: Wikimedia Commons</figcaption>
 </figure> 
