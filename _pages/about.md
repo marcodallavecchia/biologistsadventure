@@ -15,7 +15,7 @@ toc: true
 
 Ciao a tutti!
 
-Sono un biologo molecolare, 27 anni, ed attualmente residente in Belgio. Sono un fiero dottorando il biochimica e biotecnologia che studia come tante piccole cose si muovono dentro a singole cellule usando lo strumento più stereotipico di uno scienziato: il microscopio!
+Sono un biologo molecolare, 26 anni, ed attualmente residente in Belgio. Sono un fiero dottorando il biochimica e biotecnologia che studia come tante piccole cose si muovono dentro a singole cellule usando lo strumento più stereotipico di uno scienziato: il microscopio!
 
 Partito come progetto personale in inglese, ho cominciato a scrivere in italiano per dare il mio contributo ad un po’ di divulgazione scientifica.
 
