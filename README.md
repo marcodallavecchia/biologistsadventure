@@ -1,1 +1,2 @@
-### this page is work in progress
+### Welcome to Biologist's Adventure!
+This is my personal blog
