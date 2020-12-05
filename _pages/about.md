@@ -15,7 +15,7 @@ toc: true
 
 Ciao a tutti!
 
-Sono un biologo molecolare, 26 anni, ed attualmente residente in Belgio. Sono un fiero dottorando il biochimica e biotecnologia che studia come tante piccole cose si muovono dentro a singole cellule usando lo strumento più stereotipico di uno scienziato: il microscopio!
+Sono un biologo molecolare, 27 anni, ed attualmente residente in Belgio. Sono un fiero dottorando il biochimica e biotecnologia che studia come tante piccole cose si muovono dentro a singole cellule usando lo strumento più stereotipico di uno scienziato: il microscopio!
 
 Partito come progetto personale in inglese, ho cominciato a scrivere in italiano per dare il mio contributo ad un po’ di divulgazione scientifica.
 
@@ -29,7 +29,7 @@ Vi do il benvenuto sul mio Blog, seguitemi nelle mie avventure da biologo: my Bi
 
 Hi there!
 
-I’m Marco, 26yo, molecular biologist and currently a PhD student at the KU Leuven University in Belgium. I’m studying how very small things move inside single cells using scientists' most stereotipic instrument: the microscope! I'm really fond of science, especially biology, chemistry and physicics. I try to keep myself curious and constantly thinking about the world.
+I’m Marco, 27yo, molecular biologist and currently a PhD student at the KU Leuven University in Belgium. I’m studying how very small things move inside single cells using scientists' most stereotipic instrument: the microscope! I'm really fond of science, especially biology, chemistry and physicics. I try to keep myself curious and constantly thinking about the world.
 
 I started this blog to start sharing my points of view on important topics, interesting theories and discoveries and give in general my contribution to science communication and the fight against misinformation.s
 
