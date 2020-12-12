@@ -1,16 +1,13 @@
 ---
-title: "About me"
-excerpt: "Who I am and what I do!"
+title: "About me"   
 permalink: /about/
 layout: single
 toc: true
 ---
 <figure style="width: 500" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/marco.jpg" alt="" />
-  <figcaption>Hello! This is me!</figcaption>
 </figure>
 
-**(ENGLISH DESCRIPTION BELOW)**
 ### ++ITALIANO++
 
 Ciao a tutti!
