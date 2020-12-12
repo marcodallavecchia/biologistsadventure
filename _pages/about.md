@@ -28,6 +28,6 @@ Hi there!
 
 I’m Marco, 27yo, molecular biologist and currently a PhD student at the KU Leuven University in Belgium. I’m studying how very small things move inside single cells using scientists' most stereotipic instrument: the microscope! I'm really fond of science, especially biology, chemistry and physicics. I try to keep myself curious and constantly thinking about the world.
 
-I started this blog to start sharing my points of view on important topics, interesting theories and discoveries and give in general my contribution to science communication and the fight against misinformation.s
+I started this blog to start sharing my points of view on important topics, interesting theories and discoveries and give in general my contribution to science communication and the fight against misinformation.
 
 Embark in my journey on my biologist's adventures. Let me tell you a story…
