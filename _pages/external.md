@@ -19,4 +19,4 @@ Ho scritto una serie di articoli divulgativi, incentrati sui concetti basi di bi
 </ol>
 
 ### Teaching material for version control
-[Here are the slides](_pages/presentation_version_control.slides.html)
+[Here are the slides](presentation_version_control.slides.html)
