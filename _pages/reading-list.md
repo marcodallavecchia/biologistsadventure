@@ -9,7 +9,7 @@ toc: true
 "_Junk DNA_" by Nessa Carey.
 
 ### Recently finished
-"_Oxigen: The molecule that made the world_" by Nick Lane. Lane's first book providing an impressive multidisciplinary overview and lookup on how oxygen evolved on Earth, is tied to evolution of life, and can explain many of our diseases and aging-related conditions. A great read with a bit of a skeptical eye and with some technical knowledge required for some parts.
+"_Oxygen: The molecule that made the world_" by Nick Lane. Lane's first book providing an impressive multidisciplinary overview and lookup on how oxygen evolved on Earth, is tied to evolution of life, and can explain many of our diseases and aging-related conditions. A great read with a bit of a skeptical eye and with some technical knowledge required for some parts.
 
 ### Past adviced readings
 - <a href="https://www.amazon.com/God-Delusion-Richard-Dawkins/dp/0618918248/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1613992628&sr=8-1"><img src="https://images-na.ssl-images-amazon.com/images/I/41LMUsSTaNL._SX331_BO1,204,203,200_.jpg" alt="The God Delusion" style="margin:0px 15px;float:left;height:105px"></a> "_The God Delusion_" by Richard Dawkins. A powerful, extremely rich and sometimes a bit complicated on why Prof. Dawkins thinks there is no need for a God, nor there is no evidence of one. Targeted to those who are either struggling with their faith or started to follow a religion but are not completely convinced yet.
