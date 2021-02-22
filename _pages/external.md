@@ -18,5 +18,3 @@ Ho scritto una serie di articoli divulgativi, incentrati sui concetti basi di bi
 <li>Articolo 08: <a href="https://neuroblastoma.org/nessuno-mi-capisce-un-tumore-e-una-incompresa-cellula-ribelle/">Nessuno mi capisce: il tumore, una cellula incompresa e ribelle</a></li>
 </ol>
 
-### Teaching material for version control
-[Here are the slides](presentation_version_control.slides.html)
