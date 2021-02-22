@@ -17,3 +17,6 @@ Ho scritto una serie di articoli divulgativi, incentrati sui concetti basi di bi
 <li>Articolo 07: <a href="https://neuroblastoma.org/le-cellule-consapevoli-e-indipendenti/">Consapevoli ed indipendenti: la cellula come non l'avevi mai vista</a></li>
 <li>Articolo 08: <a href="https://neuroblastoma.org/nessuno-mi-capisce-un-tumore-e-una-incompresa-cellula-ribelle/">Nessuno mi capisce: il tumore, una cellula incompresa e ribelle</a></li>
 </ol>
+
+### Teaching material for version control
+[Here are the slides](_pages/presentation_version_control.slides.html)
