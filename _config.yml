@@ -336,7 +336,7 @@ defaults:
       type: eat-the-world
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       read_time: true
       comments: true
