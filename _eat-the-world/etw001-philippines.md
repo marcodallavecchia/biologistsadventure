@@ -27,7 +27,7 @@ We should mention that, although we are not dogmaticly strict, our diets tend to
 
 ### Philippine noodle stir-fry (Pancit Bihon)
 
-<figure style="width: 200px" class="align-center">
+<figure style="width: 500px" class="align-center">
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/eat_the_world/philippines_1.jpg" alt="Pancit Bihon">
         <figcaption>Delicious sticky noodles with tacky and savory spicy sauce, roasted chicken, pan-fried shrimps, chily and tons of garlic!</figcaption>
 </figure>
