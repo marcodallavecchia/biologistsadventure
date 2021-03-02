@@ -1,5 +1,6 @@
 ---
 title: "Eat the World! - The Philippines"
+excerpt: "lots of proteins and tons of garlic!"
 category: ENG
 tags:
     - food
