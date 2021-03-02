@@ -330,3 +330,13 @@ defaults:
       share: true
       read_time: true
       comments: true
+  # _eat-the-world
+  - scope:
+      path: ""
+      type: eat-the-world
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      read_time: true
+      comments: true
