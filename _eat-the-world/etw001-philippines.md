@@ -26,8 +26,15 @@ And so it started, we took a <a href="https://random.country/?">random country g
 We should mention that, although we are not dogmaticly strict, our diets tend to be mostly vegetarian and sustainable as much as we can for the dishes that we cook on a daily basis. As a consequence, it became natural to avoid meat-heavy dishes, even if they looked amazing and honestly I'm sure they'd taste great. Amongst the filipino recipes we found very popular **the heavy use of pork**, so we opted to go for white-meat-based dishes like the two you will below!
 
 ### Philippine noodle stir-fry (Pancit Bihon)
+The first filipino recipe we tried was a noodle stir-fry dish, apparently easy and quick, but unfortunately not so much. I was inspired by <a href="https://www.saveur.com/philippine-noodle-stir-fry-pancit-bihon-recipe/">this recipe</a> for the general indications and ingredients but unavoidably I had to adapt and change a couple of things. After seeing that the total time of this recipe was around **2 hours**, I decided to speed things up by changing the cooking of the chicken. I decided to simply pan-sear it and cook it on medium fire with the closed lid.
+
+The sauce that we made for "dressing" the noodles was **incredibly tasty and tacky**: mostly garlic, chili, ginger, soy sauce and a bit of sugar. I couldn't find anywhere a mushroom powder (I still wonder what type of mushrooms is usually used for this) so I simply added some champignons and instead of the fish sauce I prepared a reduced fish broth. It came out rather salty overall, but by diluting it down it got absolutely great!
 
 <figure style="width: 500px" class="align-center">
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/eat_the_world/philippines_1.jpg" alt="Pancit Bihon">
-        <figcaption>Delicious sticky noodles with tacky and savory spicy sauce, roasted chicken, pan-fried shrimps, chily and tons of garlic!</figcaption>
+        <figcaption>Delicious sticky noodles with tacky and savory spicy sauce, roasted chicken, pan-fried shrimps, chili, veggies and tons of garlic!</figcaption>
 </figure>
+
+I have to say that the combination of all **the vegetables suggested in this recipe went great together**! I was pleasently surprised by the combination of cabbage, snow peas and carrots go so well along with garlic and ginger, in the "meat" of the noodles. Incorporating pasta, sauce, with the stir-fried veggies and the chicken gives a great complete dish that is very filling and extremely satisfying!
+
+I did not see much point in the addition of **shrimps or prawns** that lost a bit of importance in the mix of so many great flavors. It was also my first time cooking with **rice noodles**: it was very quick and easy once the water is boiling. A quick remark for myself of the future: make sure _not to leave them clump together_ by mixing them with some oil and _remember that they will be stickier_ than standard noodle pasta!
