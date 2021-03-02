@@ -11,7 +11,7 @@ tags:
     - tradition
 header:
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1200px-Flag_of_the_Philippines.svg.png
-    overlay_filter: "0.5"
+    overlay_filter: "0.4"
     caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1200px-Flag_of_the_Philippines.svg.png)"
 toc: true
 ---
