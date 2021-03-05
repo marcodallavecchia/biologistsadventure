@@ -10,13 +10,13 @@ tags:
     - challenge
     - tradition
 header:
-    overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/1920px-Flag_of_the_United_Arab_Emirates.svg.png
+    overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/1280px-Flag_of_the_United_Arab_Emirates.svg.png
     overlay_filter: "0.4"
-    caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg)"
+    caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/1280px-Flag_of_the_United_Arab_Emirates.svg.png)"
 toc: true
 ---
 ### This week protagonist: United Arab Emirates
-Wow! What an interesting suggestion, <a href="https://random.country/?">generator.</a> We definitely weren't expecting this one!
+Wow! What an interesting suggestion, <a href="https://random.country/?">generator</a>. We definitely weren't expecting this one!
 
 While searching Emirati recipes, we realized (we knew it but never really realized its implications!) that the Saudi Arabia peninsula is not too far from the indian continent with its characteristic pakistani and indian cousine. When going through some <a href="https://www.holidify.com/pages/food-of-uae-2574.html">articles</a>, we surprisingly found some more mediterranean influences like lebanese falafels and some indian influences like biryani rice. It's already so much fun to realize the deep cultural and traditional connections in typical foods!
 
