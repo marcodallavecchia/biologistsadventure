@@ -53,6 +53,6 @@ The chicken thighs were slow cooked in wine vinegar, oil, bay leaves, salt and p
 
 After the reduction, **onion and lots of garlic were cooked in the sauce** while placing the chicken aside a few minutes. Even if not for chicken, cooking onion in wine vinegar is such a winner, so we missed nothing here. 
 
-To complement this dish and taking available ingredients, we prepared an improvised **thai rice flavoured with dill leaves and fennel seeds** slow cooked with white onion, leek and garlic powder. The mix of dill and fennel seeds with the onion flavors was spot on! To keep the Phillipines atmosphere, some kale leaves were baked with a bit of oil to make kale chips. Final results a good complete dish, rich in flavors and with a peculiar touch of acidity, a winner!
+To complement this dish and taking available ingredients, we prepared an improvised **Thai rice flavoured with dill leaves and fennel seeds** slow cooked with white onion, leek and garlic powder. The mix of dill and fennel seeds with the onion flavors was spot on! To keep the Phillipines atmosphere, some kale leaves were baked with a bit of oil to make kale chips. Final results a good complete dish, rich in flavors and with a peculiar touch of acidity, a winner!
 
 In no more words, we crave one day to try adobo in the Philippines!
