@@ -10,9 +10,9 @@ tags:
     - challenge
     - tradition
 header:
-    overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/1280px-Flag_of_the_United_Arab_Emirates.svg.png
+    overlay_image: https://www.thereisadayforthat.com/images/935x475c/uae_flag_01.jpg
     overlay_filter: "0.4"
-    caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/1280px-Flag_of_the_United_Arab_Emirates.svg.png)"
+    caption: "Image source: [**thereisadayforthat.com**](https://www.thereisadayforthat.com/images/935x475c/uae_flag_01.jpg)"
 toc: true
 ---
 ### This week protagonist: United Arab Emirates
