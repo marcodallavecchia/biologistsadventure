@@ -1,7 +1,6 @@
 ---
 title: "Eat the World! - Taiwan"
 excerpt: "life-changing broth and rice!"
-category: ENG
 tags:
     - food
     - eating
@@ -9,6 +8,7 @@ tags:
     - travel
     - challenge
     - tradition
+    - eat-the-world
 header:
     overlay_image: https://wallpaperaccess.com/full/1459267.jpg
     overlay_filter: "0.4"
@@ -43,16 +43,15 @@ Last but not least, a secondary surprise was the use of **bok choys**, a plant t
 ### It's not over! Zhongzi's are served!
 As soon as we saw that in Taiwan, they were serving a <a href="https://es.wikipedia.org/wiki/Envuelto"> envueltos </a> asian variant, we knew we had to try them! We really like latinamerican cousine, and we are very familiar with the concept of wrapping a rich stuffing with some leaves and steam or boil it for a long time.
 
-<div class="row">
-  <div class="column">
+<div style="float:left;margin-right:5px;">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/eat_the_world/taiwan_2.jpg" alt="Zhongzi in preparation" style="width:200px">
-  </div>
-  <div class="column">
-    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/eat_the_world/taiwan_3.jpg" alt="Zhongzi prepared for boiling" style="width:200px">
-  </div>
 </div>
+<div style="float:right;margin-left:5px;">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/eat_the_world/taiwan_3.jpg" alt="Zhongzi prepared for boiling" style="width:200px">
+</div>
+
 
 While south-american envueltos are usually corn and rice based, Zhongzi are entirely formed by a filling of sticky rice together with lots of super-strong flavors. Some that we tried include: **onion and mushrooms in soy sauce, and salty dried shrimp paste**. Wrap the rice-filled mass into bamboo leaves and tight some strings around them to keep them sealed! We used <a href="https://en.wikipedia.org/wiki/Cooking_banana">plantain</a> leaves, instead of bamboo, but they worked equally well after we boiled them to give them some elasticity. Only concern: we kinda forgot we were cooking them and the water in which they were boiling ran out, and we completely ruined a pot! Oh well, at least the leaves protected the meal and we still enjoyed them very much!
 
-### Conclusions
+### Conclusions 
 So far, this was definitely the tastiest and most surprising dish we had so far in this challenge. This meal is _super reccommended_, unless you are too spice-sensitive or are not a great fan of asian flavors.

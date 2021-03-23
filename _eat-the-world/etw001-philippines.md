@@ -1,7 +1,6 @@
 ---
 title: "Eat the World! - The Philippines"
 excerpt: "lots of proteins and tons of garlic!"
-category: ENG
 tags:
     - food
     - eating
@@ -9,6 +8,7 @@ tags:
     - travel
     - challenge
     - tradition
+    - eat-the-world
 header:
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1200px-Flag_of_the_Philippines.svg.png
     overlay_filter: "0.4"
