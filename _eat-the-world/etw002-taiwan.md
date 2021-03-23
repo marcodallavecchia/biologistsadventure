@@ -35,12 +35,11 @@ Last but not least, a secondary surprise was the use of **bok choys**, a plant t
 ### It's not over! Zhongzi's are served!
 As soon as we saw that in Taiwan, they were serving a <a href="https://es.wikipedia.org/wiki/Envuelto"> envueltos </a> asian variant, we knew we had to try them! We really like latinamerican cousine, and we are very familiar with the concept of wrapping a rich stuffing with some leaves and steam or boil it for a long time.
 
-<div style="float:left;margin-right:5px;margin-bottom:10px">
+<figure>
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/eat_the_world/taiwan_2.jpg" alt="Zhongzi in preparation" style="width:300px">
-</div>
-<div style="float:right;margin-left:5px;margin-bottom:10px">
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/eat_the_world/taiwan_3.jpg" alt="Zhongzi prepared for boiling" style="width:300px">
-</div>
+    <figcaption>Tasty, sticky rice filling wrapped in plantain leaves! What an exotice experience!</figcaption>
+</figure>
 
 <br>
 
