@@ -2,8 +2,9 @@
 title: "Eat the World! - French Polynesia"
 excerpt: "fish, tropical flavors and the secret Vanilla"
 header:
-    overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/1200px-Flag_of_French_Polynesia.svg.png
-    caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/1200px-Flag_of_French_Polynesia.svg.png)"
+    overlay_image: https://www.drapeauxdespays.fr/data/flags/w580/pf.png
+    overlay_filter: "0.4"
+    caption: "Image source: [**drapeauxdespays**](https://www.drapeauxdespays.fr/data/flags/w580/pf.png)"
 toc: true
 ---
 ### This week's protagonist: French Polynesia!
