@@ -41,8 +41,6 @@ As soon as we saw that in Taiwan, they were serving a <a href="https://es.wikipe
     <figcaption>Tasty, sticky rice filling wrapped in plantain leaves! What an exotice experience!</figcaption>
 </figure>
 
-<br>
-
 While south-american envueltos are usually corn and rice based, Zhongzi are entirely formed by a filling of sticky rice together with lots of super-strong flavors. Some that we tried include: **onion and mushrooms in soy sauce, and salty dried shrimp paste**. Wrap the rice-filled mass into bamboo leaves and tight some strings around them to keep them sealed! We used <a href="https://en.wikipedia.org/wiki/Cooking_banana">plantain</a> leaves, instead of bamboo, but they worked equally well after we boiled them to give them some elasticity. Only concern: we kinda forgot we were cooking them and the water in which they were boiling ran out, and we completely ruined a pot! Oh well, at least the leaves protected the meal and we still enjoyed them very much!
 
 ### Conclusions 
