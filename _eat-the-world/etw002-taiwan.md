@@ -1,14 +1,6 @@
 ---
 title: "Eat the World! - Taiwan"
 excerpt: "life-changing broth and rice!"
-tags:
-    - food
-    - eating
-    - world
-    - travel
-    - challenge
-    - tradition
-    - eat-the-world
 header:
     overlay_image: https://wallpaperaccess.com/full/1459267.jpg
     overlay_filter: "0.4"
@@ -51,6 +43,8 @@ As soon as we saw that in Taiwan, they were serving a <a href="https://es.wikipe
 </div>
 
 <br>
+<br>
+
 While south-american envueltos are usually corn and rice based, Zhongzi are entirely formed by a filling of sticky rice together with lots of super-strong flavors. Some that we tried include: **onion and mushrooms in soy sauce, and salty dried shrimp paste**. Wrap the rice-filled mass into bamboo leaves and tight some strings around them to keep them sealed! We used <a href="https://en.wikipedia.org/wiki/Cooking_banana">plantain</a> leaves, instead of bamboo, but they worked equally well after we boiled them to give them some elasticity. Only concern: we kinda forgot we were cooking them and the water in which they were boiling ran out, and we completely ruined a pot! Oh well, at least the leaves protected the meal and we still enjoyed them very much!
 
 ### Conclusions 

@@ -1,14 +1,6 @@
 ---
 title: "Eat the World! - United Arab Emirates"
 excerpt: "delicious vegetarian treats!"
-tags:
-    - food
-    - eating
-    - world
-    - travel
-    - challenge
-    - tradition
-    - eat-the-world
 header:
     overlay_image: https://www.thereisadayforthat.com/images/935x475c/uae_flag_01.jpg
     overlay_filter: "0.4"
