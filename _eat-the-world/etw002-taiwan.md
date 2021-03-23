@@ -45,10 +45,10 @@ As soon as we saw that in Taiwan, they were serving a <a href="https://es.wikipe
 
 <div class="row">
   <div class="column">
-    <img src="taiwan_2.jpg" alt="Zhongzi in preparation" style="width:200px">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/eat_the_world/taiwan_2.jpg" alt="Zhongzi in preparation" style="width:200px">
   </div>
   <div class="column">
-    <img src="taiwan_3.jpg" alt="Zhongzi prepared for boiling" style="width:200px">
+    <img src="{{ site.url }}{{ site.baseurl }}/assets/images/eat_the_world/taiwan_3.jpg" alt="Zhongzi prepared for boiling" style="width:200px">
   </div>
 </div>
 
