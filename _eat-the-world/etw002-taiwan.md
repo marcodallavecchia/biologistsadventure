@@ -23,7 +23,7 @@ Besides what we already mentioned, another star ingredient was the **spicy bean 
 We were really surprised to notice that the ingredients as such (and likely most of chinese/taiwanese cousine) don't require the addition of salt, because strong flavors like soy sauce, the bean paste and other rich spice mixes can simply compensate for it! It was a bit hard to adjust the "normal" use of salt with these new ingredients, but it was a worthy challenge ;)
 
 <figure style="width: 500px" class="align-center">
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/eat_the_world/taiwan.jpg" alt="beef-noodle-broth">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/eat_the_world/taiwan_1.jpg" alt="beef-noodle-broth">
         <figcaption>Spicy, fullfilling and face-slapping broth with excellent ingredients!</figcaption>
 </figure>
 
