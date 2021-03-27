@@ -5,7 +5,12 @@ layout: single
 toc: true
 ---
 ### Newsletter per la Fondazione Italiana per la lotta al Neuroblastoma
+<figure style="width: 200px" class="align-left">
+        <img src="https://neuroblastoma.org/wp-content/uploads/2020/07/logo-associazione-neuroblastoma_200x169.png" alt="neuroblastoma-logo">
+</figure> 
+<p>
 Ho scritto una serie di articoli divulgativi, incentrati sui concetti basi di biologia cellulare per spiegare meglio e fare chiarezza su com'è fatta una cellula, quali sono i suoi funzionamenti e come questa possa diventare un tumore. Li puoi trovare <a href="{{site.url}}{{site.baseurl}}/neuroblastoma-newsletter/">qui</a>!
+</p>
 
 ### "We live therefore we learn" podcast
 <figure style="width: 200px" class="align-left">
