@@ -2,6 +2,8 @@
 *~
 *.sw[p_]
 
+# Folders
+coding_source/*
 # Sublime Text
 *.sublime-project
 *.sublime-workspace
