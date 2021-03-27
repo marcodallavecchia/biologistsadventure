@@ -14,7 +14,7 @@ Ho scritto una serie di articoli divulgativi, incentrati sui concetti basi di bi
 
 ### Version control fundamentals with Git workshop
 <figure style="width: 200px" class="align-left">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github-icon">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="git-icon">
 </figure> 
 <p>In collaboration with <a href="https://vfonsecad.github.io/dynamistics/">Valeria</a>, we created an introduction to version control and good practices with Git, for educational purpose. We originally taught this material as part of a univeristy course, but we want the material to continue to be freely available. If you are interested you can find the course slides <a href="https://vfonsecad.github.io/mv_version_control/index#/">here</a>.
 </p>
