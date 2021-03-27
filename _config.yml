@@ -281,7 +281,7 @@ collections:
     output: true
     permalink: /:collection/:path/   
   coding-adventures:
-    output: true
+    output: false
     permalink: /:collection/:path/  
 # Defaults
 defaults:
