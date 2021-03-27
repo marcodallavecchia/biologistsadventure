@@ -1,5 +1,5 @@
 ---
-title: "Plotting individual traces and average traces in Seaborn"
+title: "Merging data by label pandas"
 ---
 
 ### This is another test title
