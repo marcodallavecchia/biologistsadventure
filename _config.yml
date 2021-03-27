@@ -280,7 +280,7 @@ collections:
   eat-the-world:
     output: true
     permalink: /:collection/:path/   
-  coding:
+  coding-adventures:
     output: true
     permalink: /:collection/:path/  
 # Defaults
@@ -343,10 +343,10 @@ defaults:
       share: true
       read_time: true
       comments: true
-  # _coding
+  # _coding-adventures
   - scope:
       path: ""
-      type: coding
+      type: coding-adventures
     values:
       layout: single
       author_profile: true
