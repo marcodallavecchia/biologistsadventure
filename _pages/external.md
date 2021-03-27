@@ -18,3 +18,10 @@ Ho scritto una serie di articoli divulgativi, incentrati sui concetti basi di bi
 <li>Articolo 08: <a href="https://neuroblastoma.org/nessuno-mi-capisce-un-tumore-e-una-incompresa-cellula-ribelle/">Nessuno mi capisce: il tumore, una cellula incompresa e ribelle</a></li>
 </ol>
 
+### "We live therefore we learn" podcast
+<figure style="width: 200px" class="align-left">
+        <img src="{{ site.url }}{{ site.baseurl }}/assets/images/podcast_thumbnail.png" alt="">
+</figure> 
+<p>
+    Check out our <a href="{{ site.url }}{{ site.baseurl }}/podcast">podcast</a>, where me and <a href="https://vfonsecad.github.io/dynamistics/">Valeria</a> talk about our surprising experiences, deep thoughts and hidden learnings!
+</p>     

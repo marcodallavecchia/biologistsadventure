@@ -4,8 +4,6 @@ main:
     url: /post-archive/
   - title: "Collections"
     url: /collection-archive/
-  - title: "Podcast"
-    url: /podcast/
   - title: "External"
     url: /external/
   - title: "Reading"
