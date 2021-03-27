@@ -7,7 +7,6 @@ permalink: /neuroblastoma-newsletter/
         <img src="https://neuroblastoma.org/wp-content/uploads/2020/07/logo-associazione-neuroblastoma_200x169.png" alt="neuroblastoma-logo">
 </figure> 
 <p>
-
 Ho scritto una serie di articoli divulgativi, incentrati sui concetti basi di biologia cellulare per spiegare meglio e fare chiarezza su com'è fatta una cellula, quali sono i suoi funzionamenti e come questa possa diventare un tumore. Potete trovare la serie di articoli qui sotto:
 </p>
 <br>
