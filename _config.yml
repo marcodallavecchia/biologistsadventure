@@ -280,6 +280,9 @@ collections:
   eat-the-world:
     output: true
     permalink: /:collection/:path/   
+  coding:
+    output: false
+    permalink: /:collection/:path/  
 # Defaults
 defaults:
   # _posts
@@ -346,7 +349,7 @@ defaults:
       type: coding
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
       read_time: true
       comments: true
