@@ -340,3 +340,13 @@ defaults:
       share: true
       read_time: true
       comments: true
+  # _coding
+  - scope:
+      path: ""
+      type: coding
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      read_time: true
+      comments: true

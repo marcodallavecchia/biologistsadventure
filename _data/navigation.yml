@@ -6,6 +6,8 @@ main:
     url: /collection-archive/
   - title: "External"
     url: /external/
+  - title: "Coding"
+    url: /coding/
   - title: "Reading"
     url: /reading-list/
   - title: "About"

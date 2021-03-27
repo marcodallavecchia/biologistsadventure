@@ -12,7 +12,7 @@ toc: true
 Ho scritto una serie di articoli divulgativi, incentrati sui concetti basi di biologia cellulare per spiegare meglio e fare chiarezza su com'è fatta una cellula, quali sono i suoi funzionamenti e come questa possa diventare un tumore. Li puoi trovare <a href="{{site.url}}{{site.baseurl}}/neuroblastoma-newsletter/">qui</a>!
 </p>
 
-### "We live therefore we learn" podcast
+### _"We live therefore we learn"_ podcast
 <figure style="width: 200px" class="align-left">
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/podcast_thumbnail.png" alt="">
 </figure> 
