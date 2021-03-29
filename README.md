@@ -5,19 +5,18 @@ I use this blog for some creative use, science communication and as a personal C
 
 # Current Structure
 
-## INDEX
-### Blog Posts
-#### ENG
-#### ITA
-### Collections
-#### Astounding Questions
-#### Eat the World
-#### Evolution Pills
-#### Jaw Drop
-### External
-#### Neuroblastoma Newsletter
-#### Git workshop
-#### Podcast
-### Coding Adventures
-### Reading List
-### About
+## Blog Posts
+### ENG
+### ITA
+## Collections
+### Astounding Questions
+### Eat the World
+### Evolution Pills
+### Jaw Drop
+## External
+### Neuroblastoma Newsletter
+### Git workshop
+### Podcast
+## Coding Adventures
+## Reading List
+## About
