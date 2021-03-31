@@ -27,3 +27,5 @@ We ended up composing our own dish taking the different parts we found on our se
 To complement our Polynesian experience, we found a tropical rice which to our surprise felt like what we would call a _Polynesian Risotto_. This rice recipe consisted in cooking the rice in orange and water until tender. Then we prepared the dressing with onion, garlic, bell pepper and ginger. We then tossed the rice in the pan to attempt a fried rice style cooking everything with soy sauce. The recipe ended with an scrambled egg added at the end and cooking for a few minutes. This touch gave the rice a creamy risotto texture. Finally, pineapple pieces were added to compose more the tropical taste.
 
 Our Polynesian composition was served also with an extra touch. We took the bottom of the pineapple to serve the fried rice and a small piece of plantain leaf to serve the vanilla-sauced shrimps. **What a flavorful and delicate experience in our mouths!**
+
+<a href="{{ site.url }}{{ site.baseurl }}/assets/interactive/map.html">Here</a> you can find the interactive map for this challenge!
