@@ -1,5 +1,5 @@
 # Welcome to Biologist's Adventure!
-This is my personal blog, built with Jekyll themes minimal-mistakes. Here you can find all the source codes for the blog.
+This is my personal blog, built with Jekyll themes minimal-mistakes. Here you can find all the source code for the blog.
 
 I use this blog for some creative use, science communication and as a personal CV.
 
