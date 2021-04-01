@@ -3,7 +3,7 @@ main:
   - title: "Blog Posts"
     url: /post-archive/
   - title: "Collections"
-    url: /collection-archive/
+    url: /collections-summary/
   - title: "External"
     url: /external/
   - title: "Coding"
