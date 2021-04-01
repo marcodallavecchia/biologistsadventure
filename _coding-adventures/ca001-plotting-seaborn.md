@@ -14,7 +14,7 @@ sns.relplot(data=df, x='time', y='value',
 ```
 **Returns**
 
-[figure_1][{{ site.url }}{{ site.baseurl }}/coding-adventures-source/ca001/Figure_1.png]
+[figure_1][/coding-adventures-source/ca001/Figure_1.png]
 
 Here I am using **relplot** because it's the best to start with if you are exploring _the relationship between many variables_. You don't always have to use it if you just need to generate the plot above, but I often start with replot and the change to other functions if needed.
 
