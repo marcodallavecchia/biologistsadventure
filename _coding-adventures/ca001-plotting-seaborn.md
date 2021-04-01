@@ -55,7 +55,7 @@ I struggled with this hard before, as I was always _very close_ to make what I w
 - First, we need to create a common Axes object for both grouped and individual plots to be displayed on the same figure.
 - Second, the parameter _units_ allows us to display individual traces, but that requires us to set **manually** the parameter _estimator_ to None.
 - Third, I chose not to display the legend on one plot in order not to have too much information displayed.
-- Fourth, plotting the two plots together causes some very frustrating interactions: in particular the shading areas of the grouped plot will display **below** all the traces by default, and we need to **manually** set the _zorder_ parameter to a high number inside the _err\_kws_ setting of seaborn.
+- Fourth, plotting the two plots together causes some very frustrating interactions: in particular the shading areas of the grouped plot will display **below** all the traces by default, and we need to **manually** set the _zorder_ parameter to a high number inside the _err\_kws_ setting of seaborn to have the error shades **above** the individual traces.
 
 ```python
 fig, ax = plt.subplots(figsize=(8,6))
