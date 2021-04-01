@@ -7,6 +7,7 @@ The beauty of using the [Seaborn package](https://seaborn.pydata.org/) in scient
 
 #### Plotting grouped data only
 Let's say that I want to plot a time-series of a variable per group (i.e. a condition) and plot the mean value and the standard deviation of each group:
+
 ```python
 sns.relplot(data=df, x='time', y='value',  
     hue='group', kind='line', ci='sd'
@@ -21,6 +22,7 @@ sns.relplot(data=df, x='time', y='value',
 Here I am using **relplot** because it's the best to start with if you are exploring _the relationship between many variables_. You don't always have to use it if you just need to generate the plot above, but I often start with replot and the change to other functions if needed.
 
 Let's say that the journal you are submitting to doesn't want **STD** for your plots but uses the **confidence interval** as the convention:
+
 ```python
 sns.relplot(data=df, x='time', y='value',  
     hue='group', kind='line', ci=98
@@ -53,6 +55,7 @@ I struggled with this hard before, as I was always _very close_ to make what I w
 - Second, the parameter _units_ allows us to display individual traces, but that requires us to set **manually** the parameter _estimator_ to None.
 - Third, I chose not to display the legend on one plot in order not to have too much information displayed.
 - Fourth, plotting the two plots together causes some very frustrating interactions: in particular the shading areas of the grouped plot will display **below** all the traces by default, and we need to **manually** set the _zorder_ parameter to a high number inside the _err\_kws_ setting of seaborn.
+
 ```python
 fig, ax = plt.subplots(figsize=(8,6))
 sns.lineplot(data=df, x='time', y='value', 
@@ -72,6 +75,7 @@ sns.lineplot(data=df, x='time', y='value',
 I am very bad at **manually** set figures/ticks/markers size, labels font, line colors etc.. so I really appreciate if there is an **automatic** way to create aesthetically pleasant plots consistently with readable ticks and labels right away! And indeed seaborn provides this, it does still sometimes take some adjustments but overall the results are very satisfying.
 
 The line below shows the _style_ and _context_ used in the plots in this post.
+
 ```python
 sns.set(style='darkgrid', context='talk')
 ```
