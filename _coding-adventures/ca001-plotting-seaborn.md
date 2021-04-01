@@ -14,7 +14,9 @@ sns.relplot(data=df, x='time', y='value',
 ```
 **Returns**
 
-[figure_1][/coding-adventures-source/ca001/Figure_1.png]
+<figure style="width: 300px" class="align-center">
+        <img src="{{ site.url }}{{ site.baseurl }}/coding-adventures-source/ca001/Figure_1.png" alt="Figure 1">
+</figure>
 
 Here I am using **relplot** because it's the best to start with if you are exploring _the relationship between many variables_. You don't always have to use it if you just need to generate the plot above, but I often start with replot and the change to other functions if needed.
 
@@ -26,7 +28,9 @@ sns.relplot(data=df, x='time', y='value',
 ```
 **Returns**
 
-[figure_2][{{ site.url }}{{ site.baseurl }}/coding-adventures-source/ca001/Figure_2.png]
+<figure style="width: 300px" class="align-center">
+        <img src="{{ site.url }}{{ site.baseurl }}/coding-adventures-source/ca001/Figure_2.png" alt="Figure 2">
+</figure>
 
 At times it's preferable to show multiple grouping based on different variables. Often you have many data points that would make it hard to use line type / colors and or markers to differentiate those groups. Thus, I often rely on multiple panels:
 ```python
@@ -36,7 +40,9 @@ sns.relplot(data=df, x='time', y='value',
 ```
 **Returns**
 
-[figure_3][{{ site.url }}{{ site.baseurl }}/coding-adventures-source/ca001/Figure_3.png]
+<figure style="width: 300px" class="align-center">
+        <img src="{{ site.url }}{{ site.baseurl }}/coding-adventures-source/ca001/Figure_3.png" alt="Figure 3">
+</figure>
 
 #### Plotting the individual and grouped traces together
 It's often useful to plot both the individual data and the group data on top of each other for scientific publications. So you not only show the trends and average behaviors, but you can also highlight the heterogeneity in your dataset.
@@ -58,7 +64,9 @@ sns.lineplot(data=df, x='time', y='value',
 ```
 **Returns**
 
-[figure_4][{{ site.url }}{{ site.baseurl }}/coding-adventures-source/ca001/Figure_4.png]
+<figure style="width: 300px" class="align-center">
+        <img src="{{ site.url }}{{ site.baseurl }}/coding-adventures-source/ca001/Figure_4.png" alt="Figure 4">
+</figure>
 
 ### Using seaborn.set to prettify the plots
 I am very bad at **manually** set figures/ticks/markers size, labels font, line colors etc.. so I really appreciate if there is an **automatic** way to create aesthetically pleasant plots consistently with readable ticks and labels right away! And indeed seaborn provides this, it does still sometimes take some adjustments but overall the results are very satisfying.
