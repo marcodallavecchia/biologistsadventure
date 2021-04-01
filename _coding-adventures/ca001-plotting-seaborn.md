@@ -35,6 +35,7 @@ sns.relplot(data=df, x='time', y='value',
 </figure>
 
 At times it's preferable to show multiple grouping based on different variables. Often you have many data points that would make it hard to use line type / colors and or markers to differentiate those groups. Thus, I often rely on multiple panels:
+
 ```python
 sns.relplot(data=df, x='time', y='value',  
     col='group', hue='label', kind='line', legend=False
