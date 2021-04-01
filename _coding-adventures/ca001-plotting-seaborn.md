@@ -14,7 +14,7 @@ sns.relplot(data=df, x='time', y='value',
 ```
 **Returns**
 
-<figure style="width: 300px" class="align-center">
+<figure style="width: 500px" class="align-center">
         <img src="{{ site.url }}{{ site.baseurl }}/coding-adventures-source/ca001/Figure_1.png" alt="Figure 1">
 </figure>
 
@@ -28,7 +28,7 @@ sns.relplot(data=df, x='time', y='value',
 ```
 **Returns**
 
-<figure style="width: 300px" class="align-center">
+<figure style="width: 500px" class="align-center">
         <img src="{{ site.url }}{{ site.baseurl }}/coding-adventures-source/ca001/Figure_2.png" alt="Figure 2">
 </figure>
 
@@ -40,7 +40,7 @@ sns.relplot(data=df, x='time', y='value',
 ```
 **Returns**
 
-<figure style="width: 300px" class="align-center">
+<figure style="width: 500px" class="align-center">
         <img src="{{ site.url }}{{ site.baseurl }}/coding-adventures-source/ca001/Figure_3.png" alt="Figure 3">
 </figure>
 
@@ -64,7 +64,7 @@ sns.lineplot(data=df, x='time', y='value',
 ```
 **Returns**
 
-<figure style="width: 300px" class="align-center">
+<figure style="width: 500px" class="align-center">
         <img src="{{ site.url }}{{ site.baseurl }}/coding-adventures-source/ca001/Figure_4.png" alt="Figure 4">
 </figure>
 
