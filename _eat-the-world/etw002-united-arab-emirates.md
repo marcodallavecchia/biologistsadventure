@@ -17,7 +17,7 @@ We are not strangers to Indian tastes and dishes, so we opted for something midd
 ### Fatteh
 In its simplicity Fatteh simply _blew us away_! It's a typical vegetarian (actually quite common in middle eastern tradition) option that combines some very simple flavors and ingredients for which the final result definitely surpasses the sum of the individual parts!
 
-Fatteh is a layered dish with baked pita breads chunks at the bottom, tasty eggplants in the middle and a yogurt+tahini sauce on top! We followed <a href="https://www.hungrypaprikas.com/eggplant-fatteh/#tasty-recipes-502">this recipe </a> to carry out our cooking, and we couldn't recommend it any less!
+Fatteh is a layered dish with baked pita breads chunks at the bottom, tasty eggplants in the middle and a yogurt+tahini sauce on top! We followed [this recipe](https://www.hungrypaprikas.com/eggplant-fatteh/#tasty-recipes-502) to carry out our cooking, and we couldn't recommend it any less!
 
 First we didn't have too much time that evening, so we opted to toast and **fry all the ingredients instead of baking them in the oven** (our oven is also particularly slow). This not only sped up the timing but also boosted the flavors and made the dish overall more hearty and fulfilling.
 
@@ -26,7 +26,7 @@ First we didn't have too much time that evening, so we opted to toast and **fry 
         <figcaption>Tasty spiced bread, topped with tasty eggplant and filling sauce!</figcaption>
 </figure>
 
-We bought **hand-made pita bread** from an Arab supermarket that sells it by the piece baked in a <a href="https://en.wikipedia.org/wiki/Tandoor">Tandoori</a> oven (yes it tastes and smells fantastic)! What we had left from our purchase (it was too good to resist ;)) we cut in little chunks and we toasted it with some olive oil and <a href="https://en.wikipedia.org/wiki/Sumac">sumac</a> in batches not to overcrowd the pan.
+We bought **hand-made pita bread** from an Arab supermarket that sells it by the piece baked in a [Tandoori oven](https://en.wikipedia.org/wiki/Tandoor) (yes it tastes and smells fantastic)! What we had left from our purchase (it was too good to resist ;)) we cut in little chunks and we toasted it with some olive oil and [sumac](https://en.wikipedia.org/wiki/Sumac) in batches not to overcrowd the pan.
 
 We simply fried the eggplant in olive oil, paprika, salt and more sumac until golden and soft. Finally, we decided to add some leftover veggies on top to add more vegetable ingredients to the recipe: we opted for some pan-fried green and red bell peppers and some raw cucumber slices.
 
