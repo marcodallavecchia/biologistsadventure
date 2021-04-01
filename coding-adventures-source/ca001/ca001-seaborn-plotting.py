@@ -14,15 +14,36 @@ for ii in range(10):
 
 data_dict1['time'] = time
 data_dict2['time'] = time
-df1 = pd.DataFrame.from_dict(data_dict1).melt(id_vars='time').drop('variable', axis=1)
-df1.columns = ['time', 'Y']
-df2 = pd.DataFrame.from_dict(data_dict2).melt(id_vars='time').drop('variable', axis=1)
-df2.columns = ['time', 'Z']
+df1 = pd.DataFrame.from_dict(data_dict1).melt(id_vars='time')
+df1.columns = ['time','label', 'value']
+df1['group'] = 'y_group'
+df2 = pd.DataFrame.from_dict(data_dict2).melt(id_vars='time')
+df2.columns = ['time','label','value']
+df2['group'] = 'z_group'
+df = pd.concat([df1, df2])
 
-df = df1.merge(df2, on='time')
 # df.to_csv('mock_data.csv')
-# df_melted = df.melt(id_vars=['time'])
-# df_melted.to_csv('mock_data_melted.csv')
-print(df)
-# sns.lineplot(data=df_melted, x='time', y='value', hue='variable')
+print(help(sns.set_context))
+# sns.set(style='darkgrid', context='talk')
+
+# sns.relplot(data=df, x='time', y='value',  
+#     hue='group', kind='line', ci='sd'
+#     )
+# sns.relplot(data=df, x='time', y='value',  
+#     hue='group', kind='line', ci=98
+#     )
+
+# sns.relplot(data=df, x='time', y='value',  
+#     col='group', hue='label', kind='line', legend=False
+#     )
+
+
+# fig, ax = plt.subplots(figsize=(8,6))
+# sns.lineplot(data=df, x='time', y='value', 
+#     hue='group', ax=ax, err_kws={'zorder':100.0})
+# sns.lineplot(data=df, x='time', y='value', 
+#     estimator=None, units='label', 
+#     style='group', color='lightgrey',
+#     ax=ax, legend=False)
+
 # plt.show()
