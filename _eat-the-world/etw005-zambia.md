@@ -10,7 +10,7 @@ toc: true
 ### This week's protagonist: Zambia!
 Our journey across the world continues, this week with *Zambia*!
 
-We were surprised by the large amount of typical recipes that we could actually find, most of them were about the main foods such as Nishima[https://en.wikipedia.org/wiki/Zambian_cuisine] and Ifisashi[https://en.wikipedia.org/wiki/Zambian_cuisine], but we even found a whole blog[https://www.temziebites.com/] about Zambian and Nigerian cuisine!
+We were surprised by the large amount of typical recipes that we could actually find, most of them were about the main foods such as [Nishima](https://en.wikipedia.org/wiki/Zambian_cuisine) and [Ifisashi])https://en.wikipedia.org/wiki/Zambian_cuisine), but we even found a [whole blog](https://www.temziebites.com/) about Zambian and Nigerian cuisine!
 
 So overall we had plenty of choices, but we noticed immediately that if it weren't for the perhaps _sometimes strange choices of meats_ (vertebrae, insects or worms), all recipes had in common *very simple and earthy ingredients*, such as potatoes, roots, nuts, and beans.
 
@@ -24,14 +24,14 @@ So of course we had to combine Nishima with something else, and once again we op
 
 We made a full meal course! First on the list, Nishima: it was very simple, and we didn't even have to go out to get the flour because, as mentioned we often use it already to make white arepas!
 
-To accompany it, we made another vegetarian classic from Zambian cuisine: *Ifisashi*: a sort of collection of many green (you wouldn't normally eat), such as carrot and pumpkin leaves and other less-known plants cooked together with more goodness. For our version of the Ifisashi, we simply used some left-over cabbage and plenty of spinach leaves, it did the job quite well! The trick is to cook onion and tomato first, add some ground nuts, then add all the green and finish with the rest of the ground nuts. Leave it to cook for at least 20-30 minutes until it's not soggy, and it's ready!
-
-I have to say that it sounded a bit boring at first, but it was definitely the star of the composition! The leaves acquire a special taste after some time cooking (not like we usually eat the spinach, blanching them for only a few minutes) and the nuts gave the whole dish a pasty and satisfying consistency. In some recipes we found around we also saw they added some extras to the mix, so we added little butternut squash to ours!
-
 <figure>
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/eat_the_world/zambia_1.jpg" alt="" style="width:500px">
     <figcaption>Simple, earthy and healthy flavors; starter, main and dessert, all-in-one!</figcaption>
 </figure>
+
+To accompany it, we made another vegetarian classic from Zambian cuisine: *Ifisashi*: a sort of collection of many green (you wouldn't normally eat), such as carrot and pumpkin leaves and other less-known plants cooked together with more goodness. For our version of the Ifisashi, we simply used some left-over cabbage and plenty of spinach leaves, it did the job quite well! The trick is to cook onion and tomato first, add some ground nuts, then add all the green and finish with the rest of the ground nuts. Leave it to cook for at least 20-30 minutes until it's not soggy, and it's ready!
+
+I have to say that it sounded a bit boring at first, but it was definitely the star of the composition! The leaves acquire a special taste after some time cooking (not like we usually eat the spinach, blanching them for only a few minutes) and the nuts gave the whole dish a pasty and satisfying consistency. In some recipes we found around we also saw they added some extras to the mix, so we added little butternut squash to ours!
 
 ### Beans and dessert
 We also cooked some basic white beans (broad and butter beans) in garlic, onion and tomato that came out a little too salty but still well-complementing the rest of the dish. This was a quite common preparation and there wasn't anything too surprising with the final outcome.
