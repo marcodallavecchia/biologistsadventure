@@ -10,7 +10,7 @@ toc: true
 ### This week's protagonist: Zambia!
 Our journey across the world continues, this week with **Zambia**!
 
-We were surprised by the large amount of typical recipes that we could actually find, most of them were about the main foods such as [Nishima](https://en.wikipedia.org/wiki/Zambian_cuisine) and [Ifisashi])https://en.wikipedia.org/wiki/Zambian_cuisine), but we even found a [whole blog](https://www.temziebites.com/) about Zambian and Nigerian cuisine!
+We were surprised by the large amount of typical recipes that we could actually find, most of them were about the main foods such as [Nishima](https://en.wikipedia.org/wiki/Zambian_cuisine) and [Ifisashi](https://en.wikipedia.org/wiki/Zambian_cuisine), but we even found a [whole blog](https://www.temziebites.com/) about Zambian and Nigerian cuisine!
 
 So overall we had plenty of choices, but we noticed immediately that if it weren't for the perhaps _sometimes strange choices of meats_ (vertebrae, insects or worms), all recipes had in common **very simple and earthy ingredients**, such as potatoes, roots, nuts, and beans.
 
