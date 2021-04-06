@@ -10,19 +10,19 @@ toc: true
 ### This week's protagonist: Zambia!
 Our journey across the world continues, this week with **Zambia**!
 
-We were surprised by the large amount of typical recipes that we could actually find, most of them were about the main foods such as [Nishima](https://en.wikipedia.org/wiki/Zambian_cuisine) and [Ifisashi](https://en.wikipedia.org/wiki/Zambian_cuisine), but we even found a [whole blog](https://www.temziebites.com/) about Zambian and Nigerian cuisine!
+We were surprised by the large amount of typical recipes that we could actually find, most of them were about the main foods such as [Nshima](https://en.wikipedia.org/wiki/Zambian_cuisine) and [Ifisashi](https://en.wikipedia.org/wiki/Zambian_cuisine), but we even found a [whole blog](https://www.temziebites.com/) about Zambian and Nigerian cuisine!
 
 So overall we had plenty of choices, but we noticed immediately that if it weren't for the perhaps _sometimes strange choices of meats_ (vertebrae, insects or worms), all recipes had in common **very simple and earthy ingredients**, such as potatoes, roots, nuts, and beans.
 
 ### The “Meal” ingredient
-In Zambia you only have snacks or filler meals until you eat **Nishima**, the actual preparation that _tells you_ you had lunch. This is fascinating as the meal itself is very lack-luster, but such ideologies are seen all over the world: rice in South-America and Asia, tortillas in Mexico, bread/pasta in the Mediterranean region.
+In Zambia you only have snacks or filler meals until you eat **Nshima**, the actual preparation that _tells you_ you had lunch. This is fascinating as the meal itself is very lack-luster, but such ideologies are seen all over the world: rice in South-America and Asia, tortillas in Mexico, bread/pasta in the Mediterranean region.
 
-Nishima is **a thick paste of water, salt and (white corn) cornmeal**, cooked until thickened and served in a traditional, spoon-shaped form on the plate. Interestingly enough, this was very familiar to me, as in Veneto (north-eastern region in Italy) we eat “_polenta_” very often, and it's basically the same preparation but with yellow corn flour, while in Latin America they often eat corn-based patties called “_arepas_”, which again are very similar!
+Nshima is **a thick paste of water, salt and (white corn) cornmeal**, cooked until thickened and served in a traditional, spoon-shaped form on the plate. Interestingly enough, this was very familiar to me, as in Veneto (north-eastern region in Italy) we eat “_polenta_” very often, and it's basically the same preparation but with yellow corn flour, while in Latin America they often eat corn-based patties called “_arepas_”, which again are very similar!
 
 ### Green, healthy and tasty!
-So of course we had to combine Nishima with something else, and once again we opted to stick with vegetarian recipes since there were plenty available!
+So of course we had to combine Nshima with something else, and once again we opted to stick with vegetarian recipes since there were plenty available!
 
-We made a full meal course! First on the list, Nishima: it was very simple, and we didn't even have to go out to get the flour because, as mentioned we often use it already to make white arepas!
+We made a full meal course! First on the list, Nshima: it was very simple, and we didn't even have to go out to get the flour because, as mentioned we often use it already to make white arepas!
 
 <figure>
     <img src="{{ site.url }}{{ site.baseurl }}/assets/images/eat_the_world/zambia_1.jpg" alt="" style="width:500px">
