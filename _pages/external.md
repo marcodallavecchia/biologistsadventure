@@ -28,4 +28,4 @@ For a talk in the UNAL university in Colombia, we created a presentation (_in Sp
         <img src="{{ site.url }}{{ site.baseurl }}/assets/images/podcast_thumbnail.png" alt="">
 </figure> 
 
-Check out our podcast, where me and <a href="https://vfonsecad.github.io/dynamistics/">Valeria</a> talk about our surprising experiences, deep thoughts and hidden learnings! You can find all the episodes [here]({{ site.url }}{{ site.baseurl }}/podcast/)!
+Check out our podcast, where me and [Valeria](https://vfonsecad.github.io/dynamistics/) talk about our surprising experiences, deep thoughts and hidden learnings! You can find all the episodes [here]({{ site.url }}{{ site.baseurl }}/podcast/)!
