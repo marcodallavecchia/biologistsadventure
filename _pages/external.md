@@ -17,11 +17,11 @@ Ho scritto una serie di articoli divulgativi, incentrati sui concetti basi di bi
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="git-icon">
 </figure> 
 
-In collaboration with <a href="https://vfonsecad.github.io/dynamistics/">Valeria</a>, we are creating teaching material on the them of reproducibility, especially in science and academic. 
+In collaboration with <a href="https://vfonsecad.github.io/dynamistics/">Valeria</a>, we are creating teaching material on the theme of **reproducibility**, especially in science and academic. 
 
-We originally taught a lecture on fundamentals of Git for version control as part of a univeristy course, but we want the material to continue to be freely available. You can find the slides [here](https://vfonsecad.github.io/mv_version_control/index#/).
+- We originally taught a lecture on fundamentals of Git for version control as part of a univeristy course, but we want the material to continue to be freely available. You can find the slides [here](https://vfonsecad.github.io/mv_version_control/index#/).
 
-For a talk in the UNAL university in Colombia, we created a presentation (_in Spanish_) for a broader audience on the issue of reproducibility and how to address it. You can find the slides of the talk [here](https://vfonsecad.github.io/reproducibilidad_es/dialogos_unal_2021)
+- For a talk in the UNAL university in Colombia, we created a presentation (_in Spanish_) for a broader audience on the issue of reproducibility and how to address it. You can find the slides of the talk [here](https://vfonsecad.github.io/reproducibilidad_es/dialogos_unal_2021)
 	
 ### _"We live therefore we learn"_ podcast
 <figure style="width: 200px" class="align-left">
