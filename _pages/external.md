@@ -13,7 +13,7 @@ Ho scritto una serie di articoli divulgativi, incentrati sui concetti basi di bi
 
 
 ### Reproducibility and Version Control materials
-<figure style="width: 200px; padding: 10px" class="align-left">
+<figure style="width: 100px; padding: 10px" class="align-left">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="git-icon">
 </figure> 
 
