@@ -32,7 +32,7 @@ I started this blog to start sharing my points of view on important topics, inte
 
 Embark in my journey on my biologist's adventures. Let me tell you a story…
 
-<form id="fs-frm" name="survey-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
+<form id="fs-frm" name="survey-form" accept-charset="utf-8" action="https://formspree.io/f/xvodzrqa" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
     <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
