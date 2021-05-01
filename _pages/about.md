@@ -31,5 +31,3 @@ I’m Marco, 27yo, molecular biologist and currently a PhD student at the KU Leu
 I started this blog to start sharing my points of view on important topics, interesting theories and discoveries and give in general my contribution to science communication and the fight against misinformation.
 
 Embark in my journey on my biologist's adventures. Let me tell you a story…
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScM3zs3cUkfK1hXcGAGVvoKrm0ffA7kJyOk9NsmUmeBFTSAbg/viewform?embedded=true" width="640" height="828" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
