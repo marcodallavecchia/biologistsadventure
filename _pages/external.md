@@ -11,7 +11,6 @@ toc: true
 
 Ho scritto una serie di articoli divulgativi, incentrati sui concetti basi di biologia cellulare per spiegare meglio e fare chiarezza su com'è fatta una cellula, quali sono i suoi funzionamenti e come questa possa diventare un tumore. Li puoi trovare [qui]({{site.url}}{{site.baseurl}}/neuroblastoma-newsletter/)!
 
-
 ### Reproducibility and Version Control materials
 <figure style="width: 200px; padding: 10px" class="align-left">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="git-icon">
@@ -19,7 +18,9 @@ Ho scritto una serie di articoli divulgativi, incentrati sui concetti basi di bi
 
 In collaboration with <a href="https://vfonsecad.github.io/dynamistics/">Valeria</a>, we are creating teaching material on the theme of **reproducibility**, especially in science and academic. 
 
-- We originally taught a lecture on fundamentals of Git for version control as part of a univeristy course, but we want the material to continue to be freely available. You can find the slides [here](https://vfonsecad.github.io/mv_version_control/index#/).
+- We originally taught a lecture on fundamentals of Git for version control as part of a university course, but we want the material to continue to be freely available. You can find the slides [here](https://vfonsecad.github.io/mv_version_control/).
+
+- I later made a written tutorial on fundamentals of version control to make it easier for a person to follow the material independently. You can find it [here](https://mv_group.gitlab.io/version_control_tutorial/docs/tutorial/).
 
 - For a talk in the UNAL university in Colombia, we created a presentation (_in Spanish_) for a broader audience on the issue of reproducibility and how to address it. You can find the slides of the talk [here](https://vfonsecad.github.io/reproducibilidad_es/dialogos_unal_2021).
 	
