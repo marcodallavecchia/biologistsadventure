@@ -20,7 +20,7 @@ In collaboration with <a href="https://vfonsecad.github.io/dynamistics/">Valeria
 
 - We originally taught a lecture on fundamentals of Git for version control as part of a university course, but we want the material to continue to be freely available. You can find the slides [here](https://vfonsecad.github.io/mv_version_control/).
 
-- I later made a written tutorial on fundamentals of version control to make it easier for a person to follow the material independently. You can find it [here](https://mv_group.gitlab.io/version_control_tutorial/docs/tutorial/).
+- I later made a written tutorial on fundamentals of version control to make it easier for a person to follow the material independently. You can find it [here](https://mvgroup.gitlab.io/version_control_tutorial/docs/tutorial/).
 
 - For a talk in the UNAL university in Colombia, we created a presentation (_in Spanish_) for a broader audience on the issue of reproducibility and how to address it. You can find the slides of the talk [here](https://vfonsecad.github.io/reproducibilidad_es/dialogos_unal_2021).
 	
