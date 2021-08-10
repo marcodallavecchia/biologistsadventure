@@ -82,3 +82,6 @@ sns.set(style='darkgrid', context='talk')
 ```
 For _style_ you can choose amongst: "dark", "white", "whitegrid", "darkgrid", and "ticks" to choose how the overall figure looks.
 For _context_ you can choose amongst: "notebook", "paper", "talk", "poster" to choose how your labels, ticks and much more will look in the final figure. You can imagine how useful this can be depending on the reason you are making the figure for.
+
+### SOURCE
+You can find the complete python script used for this post [here](https://marcodallavecchia.github.io/biologistsadventure/coding-adventures-source/ca001/ca001-seaborn-plotting.py).
