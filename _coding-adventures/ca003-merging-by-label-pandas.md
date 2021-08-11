@@ -55,7 +55,7 @@ plt.show()
         <img src="{{ site.url }}{{ site.baseurl }}/coding-adventures-source/ca003/not_normalized.png" alt="figure-2">
 </figure>
 
-As you can see these fake cells oscillate randomly up and down around their index values. But let's say that in order to compare their behaviour I want to normalize them to the first value (or any other) so that I would "squeeze" my data range around 1 instead of having it from 0 all the way to 6. To do so we just need to divide each value of each cell by the first intensity value.
+As you can see these fake cells oscillate randomly up and down around arbitrary values. But let's say that in order to compare their behaviour I want to normalize them to the first value (or any other) so that I would "squeeze" my data range around 1 instead of having it from 0 all the way to 6. To do so we just need to divide each value of each cell by the first intensity value.
 
 Now my eternal question is: how do I divide every value on the dataframe by the corresponding first time point value if I don't have it repeated in every row? With merge! Here's how:
 
