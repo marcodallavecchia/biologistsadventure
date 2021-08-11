@@ -1,7 +1,6 @@
 ---
 title: "Primer to ImageJ Macro language"
 excerpt: "Basic syntax and functionalitites of ImageJ1 macro scripting"
-toc: true
 ---
 ### ImageJ and Fiji Is Just ImageJ (FIJI)
 [ImageJ](https://imagej.nih.gov/ij/) is a free-to-use open-source image analysis extremely versatile software that since its release in 1997, has become one of the most popular tool for all kinds of image analysis tasks.
