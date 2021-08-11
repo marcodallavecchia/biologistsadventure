@@ -22,7 +22,7 @@ People usually think about DNA only when diseases are caught in the show. It is 
 
 <figure style="width: 300px" class="align-left">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/DNA_orbit_animated.gif" alt="">
-        <figcaption>This is how DNA looks like, with an accurate depiction. Source: [Wikimedia Common](https://upload.wikimedia.org/wikipedia/commons/1/16/DNA_orbit_animated.gif)</figcaption>
+        <figcaption> A fairly accurate depiction of DNA. Source: <a href="https://upload.wikimedia.org/wikipedia/commons/1/16/DNA_orbit_animated.gif">Wikimedia Common </a></figcaption>
 </figure>
 
 ### The director of the orchestra of life
