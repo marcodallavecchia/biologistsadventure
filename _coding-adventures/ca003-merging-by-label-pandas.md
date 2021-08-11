@@ -34,7 +34,7 @@ for idx in range(number_cells):
 
 This will create a table that looks like this.
 
-<figure style="width: 500px" class="align-center">
+<figure style="width: 200px" class="align-center">
         <img src="{{ site.url }}{{ site.baseurl }}/coding-adventures-source/ca003/dataframe.png" alt="figure-1">
 </figure>
 
