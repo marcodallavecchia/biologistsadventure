@@ -22,9 +22,9 @@ Of course, I had to give it a good read; I write here 10 things I learned from r
 ### 1. Everything comes from somewhere
 Everything comes from somewhere: Earth's energy from the Sun, digital devices from metal reservoirs somewhere underground, and germs from an ancestral germ in some other species.
 
-The malaria parasite lives in mosquito, the avian influenza in birds, and the SARS-COVID in bats. That's their respective usual place, **they didn't come from nowhere, they came from somewhere**. This is so-called **reservoir species**. This is the clever idea at the base of a pandemic: viruses and bacteria that can cause severe infectious diseases, normally live "peacefully" in some other species or places before some evolutionary pressure or simply random chance lead to the evolution of a particular trait that can generate an "_improved_" version of the germ. 
+The malaria parasite lives in mosquito, the avian influenza in birds, and the SARS-COVID in bats. That's their respective usual place, **they didn't come from nowhere, they came from somewhere**. This is the clever idea at the base of a pandemic: viruses and bacteria that can cause severe infectious diseases, normally live "peacefully" in some other species or places before some evolutionary pressure or simply random chance lead to the evolution of a particular trait that can generate an "_improved_" version of the germ. 
 
-These evolved germs can now infect, spread and/or replicate better, faster or simply more efficiently. This leads to a larger population which increases the chance of a _spillover_: an infection cross-species. That's why a **zoonotic disease** is harder to eradicate: because it hides in other species.
+These evolved germs can now infect, spread and/or replicate better, faster or simply more efficiently. This leads to a larger population which increases the chance of a _spillover_: an infection cross-species. That's why a **zoonotic disease** is harder to eradicate: because it hides in other species; the so-called **reservoir species**.
 
 ### 2. Viruses are most problematic
 
