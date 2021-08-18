@@ -11,7 +11,7 @@ tags:
     - ecology
 header:
     overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ebola_virus_virion.jpg/1024px-Ebola_virus_virion.jpg
-    caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ebola_virus_virion.jpg/1024px-Ebola_virus_virion.jpg"
+    caption: "Image source: [**Wikimedia Commons**](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ebola_virus_virion.jpg/1024px-Ebola_virus_virion.jpg)"
 toc: true
 ---
 
