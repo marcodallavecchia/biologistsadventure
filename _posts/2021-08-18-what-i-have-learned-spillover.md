@@ -38,7 +38,7 @@ These evolved germs can now infect, spread and/or replicate better, faster or si
 
 If you were wondering why viruses cause so many problems, now you have an answer. They're fast, small, and we are never well-equipped to deal with them. With so many types and numbers of viruses, with so diversified niches and mechanisms, it's just matter of chance before a virus can spillover and hit another unknowing species...
 
-### 3. Researchers are the hero of infectious diseases
+### 3. Researchers are the heroes of infectious diseases
 Most of the stories and adventures described in the book talk not about the science or the victims, but about the protagonists: **the scientists and researchers.**
 
 Those who spend their times, efforts and sometimes own health for the humans' sake to better understand, treat or eradicate the many diseases emerging all over the world. Over the years, and especially during the COVID-19 pandemic, more and more attention was placed on doctors and physicians as "heroes" who bravely attend our sick family and friends. But we do have to remember: doctors without medicines are like cars without fuel. 
