@@ -22,7 +22,7 @@ While the further development of this drug kept going (like the synthesis of Hyd
 
 This does not mean that Chloroquine was abandoned, but instead was repurposed as a complementary malaria treatment and its systemic actions were explored in treatments for immune conditions such as rheumatoid arthritis [2] and lupus [3]. More recently, Chloroquine and Hydroxychloroquine were even used as antiviral against many viruses, including HIV, SARS and avian influenza [4].
 
-As the well-known COVID pandemic hit the world, a great deal of debate emerged and rushed researched considered the use of Chloroquine for the treatment of the SARS-COVID-19 virus as well. As many already know, it led to complicate political discussions before revealing not so useful and sometimes, dangerously hazardous [5].
+As the well-known COVID pandemic hit the world, a great deal of debate emerged and rushed researches considered the use of Chloroquine for the treatment of the SARS-CoV-2 virus as well. As many already know, it led to complicate political discussions before revealing itself not so useful and sometimes, dangerously hazardous [5].
 
 ### Old friends don't always have known faces
 Don't take me wrong, I mean neither to contribute to the chloroquine-for-COVID debate nor to question its usefulness for other applications. The important aspect that I want to discuss here, which in my opinion is not often mentioned, is that **we actually don't really know how Chloroquine works**. Let me explain.
