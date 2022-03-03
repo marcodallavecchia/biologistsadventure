@@ -8,7 +8,7 @@ I have been having fun exploring data lately so I wanted to write a summary post
 
 I will be using the [arctic penguin dataset](https://github.com/allisonhorst/palmerpenguins) as an example.
 
-```Python
+```python
 # Import required packages
 import pandas as pd
 from matplotlib import pyplot as plt
@@ -18,7 +18,7 @@ df = sns.load_dataset('penguins').dropna()
 
 First thing one should do is to familiarize oneself with the dataframe, i.e. variable names and types. Let's take a look at what we have here.
 
-```Python
+```python
 # possible interesting categorical variables
 for cat in ['species','island','sex']:
     print(cat, df[cat].unique())
@@ -37,7 +37,7 @@ In this dataset we have some interesting variables, in this case I explored the 
 ### Data distribution and categories
 I started with a boxplot to explore the behavior of the _body_mass_g_ variable and to have an idea of which of the above mentioned categories could be interesting to explore.
 
-```Python
+```python
 # let's explore the data using seaborn
 g = sns.catplot(data=df, x='island', y='body_mass_g',
             hue='sex',
@@ -46,7 +46,7 @@ g = sns.catplot(data=df, x='island', y='body_mass_g',
 g.set_axis_labels('Island','Body Mass (grams)')
 ```
 This code **returns**:
-<figure style="width: 200px" class="align-center">
+<figure style="width: 400px" class="align-center">
         <img src="{{ site.url }}{{ site.baseurl }}/coding-adventures-source/ca004/body_index_species_island_sex.png" alt="figure-1">
 </figure>
 
@@ -58,7 +58,7 @@ sns.swarmplot(data=adele, x='island', y='body_mass_g', hue='sex',
             dodge=True, palette=['lightgray', 'black']).set(xlabel='Island',ylabel='Body Mass (grams)')
 ```
 This code **generates** the following plot:
-<figure style="width: 200px" class="align-center">
+<figure style="width: 400px" class="align-center">
         <img src="{{ site.url }}{{ site.baseurl }}/coding-adventures-source/ca004/body_index_adelie.png" alt="figure-2">
 </figure>
 
@@ -72,7 +72,7 @@ g.set(xlabel='Flipper Length (mm)',
     ylabel='Bill Length (mm)')
 ```
 This code **returns**:
-<figure style="width: 200px" class="align-center">
+<figure style="width: 400px" class="align-center">
         <img src="{{ site.url }}{{ site.baseurl }}/coding-adventures-source/ca004/flipper_vs_bill_reg.png" alt="figure-3">
 </figure>
 
