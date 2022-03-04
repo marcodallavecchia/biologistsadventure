@@ -46,7 +46,7 @@ g = sns.catplot(data=df, x='island', y='body_mass_g',
 g.set_axis_labels('Island','Body Mass (grams)')
 ```
 This code **returns**:
-<figure style="width: 400px" class="align-center">
+<figure style="width: 600px" class="align-center">
         <img src="{{ site.url }}{{ site.baseurl }}/coding-adventures-source/ca004/body_index_species_island_sex.png" alt="figure-1">
 </figure>
 
@@ -58,7 +58,7 @@ sns.swarmplot(data=adele, x='island', y='body_mass_g', hue='sex',
             dodge=True, palette=['lightgray', 'black']).set(xlabel='Island',ylabel='Body Mass (grams)')
 ```
 This code **generates** the following plot:
-<figure style="width: 400px" class="align-center">
+<figure style="width: 600px" class="align-center">
         <img src="{{ site.url }}{{ site.baseurl }}/coding-adventures-source/ca004/body_index_adelie.png" alt="figure-2">
 </figure>
 
@@ -72,7 +72,7 @@ g.set(xlabel='Flipper Length (mm)',
     ylabel='Bill Length (mm)')
 ```
 This code **returns**:
-<figure style="width: 400px" class="align-center">
+<figure style="width: 600px" class="align-center">
         <img src="{{ site.url }}{{ site.baseurl }}/coding-adventures-source/ca004/flipper_vs_bill_reg.png" alt="figure-3">
 </figure>
 
