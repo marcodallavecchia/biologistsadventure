@@ -52,7 +52,7 @@ This code **returns**:
 
 We can see from this plot that only the species _Adelie_ has data for all 3 islands, so let's focus on that species more. To illustrate more of the potential of seaborn I explored the data by looking at a violinplot with the individual data points overlayed on top.
 
-```Python
+```python
 sns.violinplot(data=adele, x='island', y='body_mass_g', hue='sex')
 sns.swarmplot(data=adele, x='island', y='body_mass_g', hue='sex',
             dodge=True, palette=['lightgray', 'black']).set(xlabel='Island',ylabel='Body Mass (grams)')
@@ -66,7 +66,7 @@ This is already  quite interesting to notice and to me it's also aesthetically p
 
 ### Bivariate relationship and regression
 If we move to investigate the relationship between to numerical variables such as the bill and flipper length we also detect some interesting correlations. _A priori_, we could expect that bigger birds might have larger bills and longer flippers, is that the case?
-```Python
+```python
 g = sns.lmplot(data=df, x='flipper_length_mm', y='bill_length_mm', hue='species')
 g.set(xlabel='Flipper Length (mm)',
     ylabel='Bill Length (mm)')
