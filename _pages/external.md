@@ -4,7 +4,7 @@ permalink: /external/
 layout: single
 toc: true
 ---
-### Newsletter per la Fondazione Italiana per la lotta al Neuroblastoma
+### Newsletter per la Associazione Italiana per la lotta al Neuroblastoma
 <figure style="width: 200px" class="align-left">
         <img src="https://neuroblastoma.org/wp-content/uploads/2020/07/logo-associazione-neuroblastoma_200x169.png" alt="neuroblastoma-logo">
 </figure>
