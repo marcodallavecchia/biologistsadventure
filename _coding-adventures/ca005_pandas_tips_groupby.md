@@ -37,9 +37,8 @@ One common application for this could be plotting something per group. Here I **
 
 ```python
 number_of_groups = len(grouped_df.groups) # groups is a dictionary so len(dict) will return the number of groups
-
-sns.set(context='paper') # set style and labels size
-f, axes = plt.subplots(2, int(number_of_groups/2)) # create plots grid
+sns.set(context='notebook') # set style and labels size
+f, axes = plt.subplots(2, int(number_of_groups/2), figsize=(10,8)) # create plots grid
 for (g, dataframe), ax in zip(grouped_df, axes.ravel()):
     corr_table = dataframe.corr() # calculate correlation table for each group
     sns.heatmap(corr_table, ax=ax, annot=True) # make heatmap of corr table
