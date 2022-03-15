@@ -25,7 +25,7 @@ In collaboration with <a href="https://vfonsecad.github.io/dynamistics/">Valeria
 - For a talk in the UNAL university in Colombia, we created a presentation (_in Spanish_) for a broader audience on the issue of reproducibility and how to address it. You can find the slides of the talk [here](https://vfonsecad.github.io/reproducibilidad_es/dialogos_unal_2021).
 
 ### Scientific contributions
-- I have written a personal technical guide to quantitative forster resonance energy transfer (FRET) imaging during my PhD, as a reminder and a guide for myself. It can still have some value for some other fluorescence imaging audience. You can find it [here](https://github.com/marcodallavecchia/guidetoquantitativeFRET/blob/main/a_guide_to_quantitative_fret_imaging.pdf)
+- I have written a personal technical guide to quantitative Förster Resonance Energy Transfer (FRET) imaging during my PhD, as a reminder and a guide for myself. It can still have some value for some other fluorescence imaging audience. You can find it [here](https://github.com/marcodallavecchia/guidetoquantitativeFRET/blob/main/a_guide_to_quantitative_fret_imaging.pdf)
 
 ### _"We live therefore we learn"_ podcast
 <figure style="width: 200px" class="align-left">
