@@ -20,7 +20,6 @@ for (g, dataframe), ax in zip(grouped_df, axes.ravel()):
     sns.heatmap(corr_table, ax=ax, annot=True) # make heatmap of corr table
     ax.set_title(g)
 plt.tight_layout()
-# plt.subplots_adjust(hspace=1.2, wspace=0.8)
 plt.show()
 
 # grouped_df.describe() # calculate stats per group
