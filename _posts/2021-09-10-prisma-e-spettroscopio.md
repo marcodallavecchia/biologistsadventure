@@ -13,7 +13,7 @@ header:
 toc: true
 ---
 ## Capire la luce ed i colori
-<!-- Benvenuto! Se sei arrivato qui è perchè probabilmente hai visto il mio video YouTube "TITOLO". -->
+Benvenuto! Se sei arrivato qui è perchè probabilmente hai visto il mio video YouTube [Ecco perchè i colori non esistono (almeno non come pensiamo)](https://youtu.be/x0m2mJfRn7A)
 
 In questo video ho cercato di riassumere e far capire in modo semplice cos'è la luce, e come interagisce con il mondo ed i nostri occhi per farci percepire i colori. Se vuoi la spiegazione completa guarda il video, ma il riassunto potrebbe essere: "La luce è una porzione di spettro elettromagnetico, che viene riflessa o assorbita dagli oggetti attorno a noi e finisce prima o poi nella retina dei nostri occhi, dove viene interpretata come colore."
 
