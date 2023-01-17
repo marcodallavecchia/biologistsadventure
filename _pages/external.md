@@ -26,6 +26,8 @@ In collaboration with <a href="https://vfonsecad.github.io/dynamistics/">Valeria
 
 ### Scientific contributions
 - I have written a personal technical guide to quantitative Förster Resonance Energy Transfer (FRET) imaging during my PhD, as a reminder and a guide for myself. It can still have some value for some other fluorescence imaging audience. You can find it [here](https://github.com/marcodallavecchia/guidetoquantitativeFRET/blob/main/a_guide_to_quantitative_fret_imaging.pdf)
+- My PhD first author publication on improved spectrally-tunable biosensors was published [here](https://doi.org/10.1021/acssensors.2c00066)
+- I published another paper during my PhD in collaboration with another group, you can find it [here](https://doi.org/10.3389/fnins.2022.887478)
 
 ### _"We live therefore we learn"_ podcast
 <figure style="width: 200px" class="align-left">
