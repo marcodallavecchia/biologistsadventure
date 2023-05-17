@@ -4,6 +4,16 @@ permalink: /external/
 layout: single
 toc: true
 ---
+
+### Python trainings
+- I have organized and created material for a Python beginner-friendly course. All the material can be found in [this Gitlab repo](https://gitlab.com/igbmc/mic-photon/python-intro-igbmc). The slides are available [here](https://igbmc.gitlab.io/mic-photon/python-intro-igbmc/).
+
+- I have co-organized and taught a Git and Python for bioimage analysis course. The material is availble at [this Gitlab repo](https://gitlab.com/igbmc/mic-photon/rtmfm_python_image_analysis).
+
+### Miscellaneous presentations
+- A seminar on Deep Learning fundamentals and applications for bioimage analysis. Slides can be found [here](https://igbmc.gitlab.io/mic-photon/dl-image-analysis/)
+- A small talk about the importance of bioimage analysis in quantitative biology. Slides can be found [here](https://igbmc.gitlab.io/mic-photon/on-bioimage-analysis/)
+
 ### Newsletter per la Associazione Italiana per la lotta al Neuroblastoma
 <figure style="width: 200px" class="align-left">
         <img src="https://neuroblastoma.org/wp-content/uploads/2020/07/logo-associazione-neuroblastoma_200x169.png" alt="neuroblastoma-logo">
@@ -25,6 +35,7 @@ In collaboration with <a href="https://vfonsecad.github.io/dynamistics/">Valeria
 - For a talk in the UNAL university in Colombia, we created a presentation (_in Spanish_) for a broader audience on the issue of reproducibility and how to address it. You can find the slides of the talk [here](https://vfonsecad.github.io/reproducibilidad_es/dialogos_unal_2021).
 
 ### Scientific contributions
+- You can find a good summary of many recent analysis I performed as an bioimage analysit in my [professional portfolio](https://marcodallavecchia-portfolio.netlify.app/)
 - I have written a personal technical guide to quantitative Förster Resonance Energy Transfer (FRET) imaging during my PhD, as a reminder and a guide for myself. It can still have some value for some other fluorescence imaging audience. You can find it [here](https://github.com/marcodallavecchia/guidetoquantitativeFRET/blob/main/a_guide_to_quantitative_fret_imaging.pdf)
 - My PhD first author publication on improved spectrally-tunable biosensors was published [here](https://doi.org/10.1021/acssensors.2c00066)
 - I published another paper during my PhD in collaboration with another group, you can find it [here](https://doi.org/10.3389/fnins.2022.887478)
