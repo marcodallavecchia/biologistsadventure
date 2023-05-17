@@ -11,15 +11,13 @@ toc: true
 - I have co-organized and taught a Git and Python for bioimage analysis course. The material is availble at [this Gitlab repo](https://gitlab.com/igbmc/mic-photon/rtmfm_python_image_analysis).
 
 ### Miscellaneous presentations
+- A seminar on digital project files and folders control and organization using tools such as Quarto, Pandoc, LaTeX and Jupyter. All the examples on which the talk is based on at available [here](https://gitlab.com/igbmc/mic-photon/maiia_projmanag_versctrl). Slides can be found [here](https://igbmc.gitlab.io/mic-photon/maiia_projmanag_versctrl)
 - A seminar on Deep Learning fundamentals and applications for bioimage analysis. Slides can be found [here](https://igbmc.gitlab.io/mic-photon/dl-image-analysis/)
 - A small talk about the importance of bioimage analysis in quantitative biology. Slides can be found [here](https://igbmc.gitlab.io/mic-photon/on-bioimage-analysis/)
 
-### Newsletter per la Associazione Italiana per la lotta al Neuroblastoma
-<figure style="width: 200px" class="align-left">
-        <img src="https://neuroblastoma.org/wp-content/uploads/2020/07/logo-associazione-neuroblastoma_200x169.png" alt="neuroblastoma-logo">
-</figure>
-
-Ho scritto una serie di articoli divulgativi, incentrati sui concetti basi di biologia cellulare per spiegare meglio e fare chiarezza su com'è fatta una cellula, quali sono i suoi funzionamenti e come questa possa diventare un tumore. Li puoi trovare [qui]({{site.url}}{{site.baseurl}}/neuroblastoma-newsletter/)!
+### Miscellaneous articles
+- I wrote a primer on image file formats and naming conventions [here](https://igbmc.gitlab.io/mic-photon/image-analysis-hub/posts/good-practice-images/)
+- Ho scritto una serie di articoli divulgativi, incentrati sui concetti basi di biologia cellulare per spiegare meglio e fare chiarezza su com'è fatta una cellula, quali sono i suoi funzionamenti e come questa possa diventare un tumore. Li puoi trovare [qui]({{site.url}}{{site.baseurl}}/neuroblastoma-newsletter/)!
 
 ### Reproducibility and Version Control materials
 <figure style="width: 200px; padding: 10px" class="align-left">
