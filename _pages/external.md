@@ -10,7 +10,7 @@ toc: true
 - I have co-organized and taught a Git and Python for bioimage analysis course. The material is availble at [this Gitlab repo](https://gitlab.com/igbmc/mic-photon/rtmfm_python_image_analysis).
 
 ### Miscellaneous presentations
-- A seminar on digital project files and folders control and organization using tools such as Quarto, Pandoc, LaTeX and Jupyter. All the examples on which the talk is based on at available [here](https://gitlab.com/igbmc/mic-photon/maiia_projmanag_versctrl). Slides can be found [here](https://igbmc.gitlab.io/mic-photon/maiia_projmanag_versctrl)
+- A seminar on digital project files and folders control and organization using tools such as Quarto, Pandoc, LaTeX and Jupyter. Re-watch the presentation [here](https://drive.google.com/file/d/1uerrgTS1Wordch09-tEGKPoprLu9FktC/view?usp=sharing). All the examples on which the talk is based on at available [here](https://gitlab.com/igbmc/mic-photon/maiia_projmanag_versctrl). Slides can be found [here](https://igbmc.gitlab.io/mic-photon/maiia_projmanag_versctrl)
 - A seminar on Deep Learning fundamentals and applications for bioimage analysis. Slides can be found [here](https://igbmc.gitlab.io/mic-photon/dl-image-analysis/)
 - A small talk about the importance of bioimage analysis in quantitative biology. Slides can be found [here](https://igbmc.gitlab.io/mic-photon/on-bioimage-analysis/)
 
