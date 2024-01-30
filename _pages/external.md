@@ -30,7 +30,8 @@ In collaboration with <a href="https://vfonsecad.github.io/dynamistics/">Valeria
 - For a talk in the UNAL university in Colombia, we created a presentation (_in Spanish_) for a broader audience on the issue of reproducibility and how to address it. You can find the slides of the talk [here](https://vfonsecad.github.io/reproducibilidad_es/dialogos_unal_2021).
 
 ### Scientific contributions
-- You can find a good summary of many recent analysis I performed as an bioimage analyst in my [professional portfolio](https://marcodallavecchia-portfolio.netlify.app/)
+- We published a collaboration paper on imaging-based cell migration assays on [the Biochemical Pharmacology Journal](https://doi.org/10.1016/j.bcp.2023.115696)
+- You can find a good summary of several analysis projects I worked on as an bioimage analyst in my [professional portfolio](https://marcodallavecchia-portfolio.netlify.app/)
 - I have written a personal technical guide to quantitative Förster Resonance Energy Transfer (FRET) imaging during my PhD, as a reminder and a guide for myself. It can still have some value for some other fluorescence imaging audience. You can find it [here](https://github.com/marcodallavecchia/guidetoquantitativeFRET/blob/main/a_guide_to_quantitative_fret_imaging.pdf)
 - My PhD first author publication on improved spectrally-tunable biosensors was published [here](https://doi.org/10.1021/acssensors.2c00066)
 - I published another paper during my PhD in collaboration with another group, you can find it [here](https://doi.org/10.3389/fnins.2022.887478)
