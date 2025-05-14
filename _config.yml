@@ -280,7 +280,6 @@ collections:
     output: true
     permalink: /:collection/:path/   
   coding-adventures:
-    type: special
     output: true
     permalink: /:collection/:path/  
 # Defaults

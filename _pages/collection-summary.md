@@ -21,3 +21,6 @@ In this collection, I discuss fundamental topics and theory about evolution and 
 ### Jaw Drop
 [Jaw Drop link](jaw-drop.md)\
 Here I am collecting a list of _fun_ or _surprising_ biological facts that mind-blowed me when I heard or understood them. Sometimes it might sound boring or underwhelming, but trust me, give it a good thought and you will remain jaw-dropped!
+
+### Coding Adventures
+[Coding Adventures link](coding-adventures.md)\
