@@ -24,3 +24,4 @@ Here I am collecting a list of _fun_ or _surprising_ biological facts that mind-
 
 ### Coding Adventures
 [Coding Adventures link](coding-adventures.md)\
+Here I am collecting useful snippets and notes about different aspects of programming, coding, and data analysis. It's mostly what I encounter as new, challenging or interesting and what to make a note of it.

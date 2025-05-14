@@ -282,6 +282,9 @@ collections:
   coding-adventures:
     output: true
     permalink: /:collection/:path/  
+  upsilon:
+    output: true
+    permalink: /:collection/:path/  
 # Defaults
 defaults:
   # _posts
@@ -346,6 +349,17 @@ defaults:
   - scope:
       path: ""
       type: coding-adventures
+    values:
+      layout: single
+      author_profile: true
+      toc: true
+      share: true
+      read_time: true
+      comments: true
+ # _upsilon
+  - scope:
+      path: ""
+      type: upsilon
     values:
       layout: single
       author_profile: true
