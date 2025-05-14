@@ -8,7 +8,7 @@ author-profile: true
 
 ### Upsilon project
 [Upsilon Project link](upsilon.md)\
-I am learning German with the Upsilon project! Here's the lesson material I am following: https://mvgroup.gitlab.io/boxroom/upsilon-project/
+I am learning German with the Upsilon project! Here's the lesson material I am following: [https://mvgroup.gitlab.io/boxroom/upsilon-project/](https://mvgroup.gitlab.io/boxroom/upsilon-project/)
 
 ### Astounding Questions
 [Astounding Questions link](astounding-questions.md)\
