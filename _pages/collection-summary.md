@@ -6,6 +6,10 @@ toc: true
 author-profile: true
 ---
 
+### Upsilon project
+[Upsilon Project link](upsilon.md)\
+I am learning German with the Upsilon project! Here's the lesson material I am following: https://mvgroup.gitlab.io/boxroom/upsilon-project/
+
 ### Astounding Questions
 [Astounding Questions link](astounding-questions.md)\
 In this collection, I write about perplexing question that seem to have simple answers but that often keeps you wondering in the biological universe.
