@@ -6,7 +6,7 @@ toc: true
 ---
 
 ### Outreach and teaching
-- Since 2024, I became an official Carpentries instructor. And since 2025, I became an official maintainer of the [image processing with Python curriculum](https://github.com/datacarpentry/image-processing).
+- Since 2024, I became an official [The Carpentries](https://carpentries.org/) instructor. And since 2025, I became an official maintainer of the [image processing with Python curriculum](https://github.com/datacarpentry/image-processing).
 - Together with [GloBIAS](https://www.globias.org/), we are working on redesigning the curriculum to make it more focused on bioimage analysis. Find the WIP repository [here](https://github.com/carpentries-incubator/bioimage-analysis-python)
 - I have designed and taught (with colleagues) a one-afternoon Jupyter introductory journey for image anlaysisi called _PyxelPerfect_. You can find all the material [here](https://git.ista.ac.at/iof-group/teaching/pyxelperfect).
 - I have organized and created material for a Python beginner-friendly course. All the material can be found in [this Gitlab repo](https://gitlab.com/igbmc/mic-photon/python-intro-igbmc). The slides are available [here](https://igbmc.gitlab.io/mic-photon/python-intro-igbmc/).
