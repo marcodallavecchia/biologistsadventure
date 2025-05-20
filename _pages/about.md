@@ -8,6 +8,16 @@ toc: true
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/marco.jpg" alt="" />
 </figure>
 
+### ++ENGLISH++
+
+Hi there!
+
+I’m Marco, 31yo, molecular biologist and currently a bioimage analyst in Klosterneuburg (near Vienna), Austria. I help people get the best out of their images and experiments on a daily basis! I'm really fond of science, especially biology, chemistry and physicics. I try to keep myself curious and constantly thinking about the world.
+
+I started this blog to start sharing my points of view on important topics, interesting theories and discoveries and give in general my contribution to science communication and the fight against misinformation.
+
+Embark in my journey on my biologist's adventures. Let me tell you a story…
+
 ### ++ITALIANO++
 
 Ciao a tutti!
@@ -21,13 +31,3 @@ Qui troverete tutte le mie riflessioni, spiegazioni e importanti discussioni su 
 Se volete mettervi alla prova con l’inglese o già lo sapete, ma siete interessati al mondo della biologia, fatevi sotto a date un’occhiata ai miei contenuti! Non volete saperne dell’inglese? Nessun problema, d’ora in poi cercherò di scrivere regolarmente contenuti in italiano!
 
 Vi do il benvenuto sul mio Blog, seguitemi nelle mie avventure da biologo: my Biologist’s Adventures!
-
-### ++ENGLISH++
-
-Hi there!
-
-I’m Marco, 29yo, molecular biologist and currently a bioimage analyst in Strasbourg, France. I help people get the best out of their images and experiments on a daily basis! I'm really fond of science, especially biology, chemistry and physicics. I try to keep myself curious and constantly thinking about the world.
-
-I started this blog to start sharing my points of view on important topics, interesting theories and discoveries and give in general my contribution to science communication and the fight against misinformation.
-
-Embark in my journey on my biologist's adventures. Let me tell you a story…
